@@ -1,0 +1,3079 @@
+[
+  {
+    "category": "Vital Signs Assessment & Documentation",
+    "id": "VS_DOC_01",
+    "keywords": [
+      "vital signs",
+      "bp",
+      "blood pressure",
+      "heart rate",
+      "hr",
+      "spo2",
+      "oxygen sat",
+      "oxygen saturation",
+      "vitals"
+    ],
+    "instruction": "Routine vital signs (HR, BP, RR, SpO2) are performed every two hours.",
+    "policy": "SHC P&P 30070 - Assessment & Reassessment"
+  },
+  {
+    "category": "Vital Signs Assessment & Documentation",
+    "id": "VS_DOC_02",
+    "keywords": [
+      "vital signs",
+      "pressors",
+      "vasoactive drugs",
+      "vitals"
+    ],
+    "instruction": "On vasoactive drugs, BP and HR are performed q 15 minutes if titrating then, once stable, can shift to q 1 to 2 hours.",
+    "policy": "SHC P&P 30070 - Assessment & Reassessment"
+  },
+  {
+    "category": "Vital Signs Assessment & Documentation",
+    "id": "VS_DOC_03",
+    "keywords": [
+      "new admission",
+      "vital signs admission",
+      "vital signs frequency",
+      "vitals"
+    ],
+    "instruction": "Vital signs on new admission are documented q15 min x 4, q30 min x 4, and q1h x 4.",
+    "policy": "SHC P&P 30070 - Assessment & Reassessment"
+  },
+  {
+    "category": "Vital Signs Assessment & Documentation",
+    "id": "VS_DOC_04",
+    "keywords": [
+      "temperature",
+      "vital signs",
+      "vitals"
+    ],
+    "instruction": "Temperature is done q4h if afebrile; q30min - q1h if hypothermic; q2h if hyperthermic.",
+    "policy": "SHC P&P 30070 - Assessment & Reassessment"
+  },
+  {
+    "category": "Vital Signs Assessment & Documentation",
+    "id": "VS_DOC_05",
+    "keywords": [
+      "cvp",
+      "pap",
+      "pa pressures",
+      "pulmonary artery pressures"
+    ],
+    "instruction": "CVP/ PAP is assessed and documented q2h.",
+    "policy": "SHC P&P 30070 - Assessment & Reassessment"
+  },
+  {
+    "category": "Vital Signs Assessment & Documentation",
+    "id": "VS_DOC_06",
+    "keywords": [
+      "co",
+      "cardiac output",
+      "ci",
+      "cardiac index"
+    ],
+    "instruction": "CO/CI is performed and documented every 8 hours and PRN with treament/intervention.",
+    "policy": "SHC P&P 30070 - Assessment & Reassessment"
+  },
+  {
+    "category": "Vital Signs Assessment & Documentation",
+    "id": "VS_DOC_07",
+    "keywords": [
+      "cco",
+      "continuous cardiac output",
+      "continuous cardiac output monitoring"
+    ],
+    "instruction": "CCO documented every 2 hours. Calibrate SvO2/ScvO2 daily and PRN.",
+    "policy": "SHC P&P 30070 - Assessment & Reassessment"
+  },
+  {
+    "category": "Vital Signs Assessment & Documentation",
+    "id": "VS_DOC_08",
+    "keywords": [
+      "svo2",
+      "scvo2",
+      "central venous oxygen saturation",
+      "(mixed venous oxygen saturation)"
+    ],
+    "instruction": "SvO2/ScVO2 done every 1-2 hours and PRN.",
+    "policy": "SHC P&P 30070 - Assessment & Reassessment"
+  },
+  {
+    "category": "IABP (Intra-aortic Balloon Pump)",
+    "id": "IABP_DOC_1",
+    "keywords": [
+      "aortic pressure",
+      "augmented pressure",
+      "iabp"
+    ],
+    "instruction": "For IABP, aortic pressures and augmented pressures are performed q1h for stable patients when not titrating vasoactive medications, or q15 min and PRN as determined by individual patient status.",
+    "policy": "SHC P&P 30070 - Assessment & Reassessment"
+  },
+  {
+    "category": "IABP (Intra-aortic Balloon Pump)",
+    "id": "IABP_DOC_2",
+    "keywords": [
+      "aortic root map",
+      "amap",
+      "pressors",
+      "iabp"
+    ],
+    "instruction": "Aortic root MAP is used for hemodynamic calculations and titration of infusions.",
+    "policy": "SHC P&P 30070 - Assessment & Reassessment"
+  },
+  {
+    "category": "IABP (Intra-aortic Balloon Pump)",
+    "id": "IABP_DOC_3",
+    "keywords": [
+      "trigger",
+      "mode",
+      "inflation frequency",
+      "iabp"
+    ],
+    "instruction": "IABP trigger, mode, and inflation frequency are documented q shift and with any changes in setting and PRN.",
+    "policy": "SHC P&P 30070 - Assessment & Reassessment"
+  },
+  {
+    "category": "IABP (Intra-aortic Balloon Pump)",
+    "id": "IABP_DOC_4",
+    "keywords": [
+      "alarm settings",
+      "helium tank",
+      "iabp",
+      "iabp alarm settings"
+    ],
+    "instruction": "IABP alarm settings and Helium tank are assessed and documented q shift and PRN.",
+    "policy": "SHC P&P 30070 - Assessment & Reassessment"
+  },
+  {
+    "category": "IABP (Intra-aortic Balloon Pump)",
+    "id": "IABP_DOC_5",
+    "keywords": [
+      "assisted aortic pressures",
+      "iabp"
+    ],
+    "instruction": "Assisted aortic pressures are asessed and documented q1h and PRN.",
+    "policy": "SHC P&P 30070 - Assessment & Reassessment"
+  },
+  {
+    "category": "IABP (Intra-aortic Balloon Pump)",
+    "id": "IABP_DOC_6",
+    "keywords": [
+      "unassisted aortic pressures",
+      "iabp"
+    ],
+    "instruction": "Unassisted aortic pressures are assessed and documented q4h and PRN.",
+    "policy": "SHC P&P 30070 - Assessment & Reassessment"
+  },
+  {
+    "category": "IABP (Intra-aortic Balloon Pump)",
+    "id": "IABP_DOC_7",
+    "keywords": [
+      "iabp",
+      "neurovascular checks",
+      "iabp neurovascular checks"
+    ],
+    "instruction": "For an IABP,  neurovascular checks: q15 min x 1 hour, then q30 min x 1 hour, then q1h and PRN.",
+    "policy": "SHC P&P 30070 - Assessment & Reassessment"
+  },
+  {
+    "category": "IABP (Intra-aortic Balloon Pump)",
+    "id": "IABP_DOC_08",
+    "keywords": [
+      "iabp hob",
+      "hob < 30 iabp",
+      "iabp positioning",
+      "reverse trendelenburg iabp",
+      "iabp migration prevention",
+      "iabp kinking prevention"
+    ],
+    "instruction": "HOB will remain < 30° during IABP therapy to prevent migration and kinking of the IAB catheter. May place patient in reverse Trendelenburg for comfort.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "IABP (Intra-aortic Balloon Pump)",
+    "id": "IABP_DOC_09",
+    "keywords": [
+      "logroll patient iabp",
+      "iabp repositioning",
+      "turn patient q2h iabp",
+      "iabp position change"
+    ],
+    "instruction": "Logroll patient q2h to turn and change position.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "IABP (Intra-aortic Balloon Pump)",
+    "id": "IABP_DOC_10",
+    "keywords": [
+      "iabp ecg leads",
+      "2 sets ecg leads iabp",
+      "ecg to bedside and console",
+      "iabp ecg setup"
+    ],
+    "instruction": "Maintain 2 sets of ECG leads on patient: One set directly to the bedside monitor and one set directly to the IABP console.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "IABP (Intra-aortic Balloon Pump)",
+    "id": "IABP_DOC_11",
+    "keywords": [
+      "change iabp electrodes",
+      "iabp electrodes q24h",
+      "iabp electrode change"
+    ],
+    "instruction": "Change the IABP electrodes q24h.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "IABP (Intra-aortic Balloon Pump)",
+    "id": "IABP_DOC_12",
+    "keywords": [
+      "iabp trigger mode",
+      "trigger mode ecg",
+      "iabp ecg triggering"
+    ],
+    "instruction": "IABP trigger mode is always ECG or as determined by individual patient status.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "IABP (Intra-aortic Balloon Pump)",
+    "id": "IABP_DOC_13",
+    "keywords": [
+      "iabp auto mode",
+      "iabp semi-auto mode",
+      "auto mode preferred iabp",
+      "iabp timing mode",
+      "cps patients iabp",
+      "vad patients iabp"
+    ],
+    "instruction": "Auto mode is preferred, with semi-auto used to assess timing and selected when auto mode does not provide appropriate timing or when there is no dicrotic notch on the arterial waveform (i.e. CPS and VAD patients).",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "IABP (Intra-aortic Balloon Pump)",
+    "id": "IABP_DOC_14",
+    "keywords": [
+      "change iabp pressure tubing",
+      "iabp pressure bag q96h",
+      "change iabp tubing",
+      "iabp pressure bag change"
+    ],
+    "instruction": "Change IAB pressure tubing and pressure bag q96h or more frequently as determined by individual patient need.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "IABP (Intra-aortic Balloon Pump)",
+    "id": "IABP_DOC_15",
+    "keywords": [
+      "helium tank iabp",
+      "helium tank beginning shift",
+      "helium tank prn iabp",
+      "check helium tank iabp"
+    ],
+    "instruction": "Helium tank will be checked at the beginning of the shift and PRN for patients with IABP therapy.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "IABP (Intra-aortic Balloon Pump)",
+    "id": "IABP_DOC_16",
+    "keywords": [
+      "iabp blood leak",
+      "stop pumping iabp",
+      "iabp catheter removal",
+      "blood leak iabp",
+      "notify cardiologist iabp",
+      "notify cardiac surgeon iabp"
+    ],
+    "instruction": "If blood leak occurs, stop pumping immediately, and notify Cardiologist or Cardiac Surgeon for prompt IAB catheter removal.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "IABP (Intra-aortic Balloon Pump)",
+    "id": "IABP_DOC_17",
+    "keywords": [
+      "iabp catheter removal",
+      "who removes iabp",
+      "iabp removal privileges",
+      "rn remove iabp"
+    ],
+    "instruction": "The IAB catheter is removed by a Cardiologist, Cardiac Surgeon, or Nurse Practitioner with privileges to do so. The RN will not remove the IAB catheter.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "IABP (Intra-aortic Balloon Pump)",
+    "id": "IABP_DOC_18",
+    "keywords": [
+      "blood samples iabp",
+      "draw from iabp catheter",
+      "no blood draws iabp"
+    ],
+    "instruction": "Blood samples will not be drawn from the IAB catheter.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "IABP (Intra-aortic Balloon Pump)",
+    "id": "IABP_DOC_19",
+    "keywords": [
+      "iabp pressure bag",
+      "pressure bag heart level",
+      "aortic root no blood draws",
+      "pressure bag 3 feet above heart",
+      "iabp pressure bag placement"
+    ],
+    "instruction": "Pressure bag will be hung above the level of the heart (at least 3 feet), on a dedicated pole labeled 'Aortic root: No blood draws.'",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "IABP (Intra-aortic Balloon Pump)",
+    "id": "IABP_DOC_20",
+    "keywords": [
+      "fiberoptic iabp catheter",
+      "fiberoptic iabc",
+      "transducer not connected fiberoptic",
+      "traditional pressure monitoring fiberoptic"
+    ],
+    "instruction": "Fiberoptic Catheter: The transducer will not be connected to the monitor for fiberoptic IABCs. If the fiberoptics are unable to read aortic root pressures or the IABC is not fiberoptic, use the traditional pressure monitoring system via the transducer. ",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "IABP (Intra-aortic Balloon Pump)",
+    "id": "IABP_DOC_21",
+    "keywords": [
+      "iabp sheath",
+      "sheath sideport",
+      "sideport"
+    ],
+    "instruction": "An additional pressure line must be connected and transduced to the sheath stopcock if sheath sideport is present.",
+    "policy": ""
+  },
+  {
+    "category": "IABP (Intra-aortic Balloon Pump)",
+    "id": "IABP_DOC_22",
+    "keywords": [
+      "iabp air bubbles",
+      "aortic root air free",
+      "air bubbles iabp",
+      "clots iabp"
+    ],
+    "instruction": "The aortic root will be kept free of air bubbles and clots.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "IABP (Intra-aortic Balloon Pump)",
+    "id": "IABP_DOC_23",
+    "keywords": [
+      "iabp vte prophylaxis",
+      "iabp anticoagulation",
+      "vte prophylaxis iabp",
+      "anticoagulation not on iabp"
+    ],
+    "instruction": "If the patient is not on anticoagulation, VTE prophylaxis must be instituted as ordered by the provider.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "IABP (Intra-aortic Balloon Pump)",
+    "id": "IABP_DOC_24",
+    "keywords": [
+      "iabp cardiovascular assessment",
+      "iabp hemodynamic assessment",
+      "iabp peripheral neurovascular assessment",
+      "iabp lower extremity assessment",
+      "iabp q1h assessment",
+      "affected extremity iabp"
+    ],
+    "instruction": "Cardiovascular, including hemodynamic status and peripheral neurovascular assessment will be performed q1h and as determined by individual patient status. ",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "IABP (Intra-aortic Balloon Pump)",
+    "id": "IABP_DOC_25",
+    "keywords": [
+      "urine output iabp",
+      "iabp lower extremity",
+      "iabp exremity"
+    ],
+    "instruction": "With IABP, it is especially important to monitor the affected lower extremity, both upper extremities, and urine output.",
+    "policy": ""
+  },
+  {
+    "category": "IABP (Intra-aortic Balloon Pump)",
+    "id": "IABP_DOC_26",
+    "keywords": [
+      "iabp initial assessment",
+      "iabp trigger frequency",
+      "iabp waveform interpretation",
+      "iabp timing assessment",
+      "iabp helium tank check",
+      "iabp console alarms",
+      "iabp augmentation alarm"
+    ],
+    "instruction": "Initial nursing assessment will include: IABP trigger & frequency, Waveform and waveform interpretation, Timing, Helium tank check, Console alarms check. Critical and advisory alarms must be on and audible, including augmentation alarm.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "IABP (Intra-aortic Balloon Pump)",
+    "id": "IABP_DOC_27",
+    "keywords": [
+      "iabp reassessment",
+      "reassessment throughout shift iabp",
+      "unexpected outcomes iabp",
+      "interventions response iabp",
+      "iabp location confirmation",
+      "x-ray confirmation iabp"
+    ],
+    "instruction": "Reassessment throughout the shift will include: Unexpected patient outcomes, Interventions and patient response to interventions, Confirmation of IAB catheter location (x-ray confirmation per radiologist).",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "IABP (Intra-aortic Balloon Pump)",
+    "id": "IABP_DOC_28",
+    "keywords": [
+      "iabp nutrition assessment",
+      "iabp skin issues",
+      "iabp consult",
+      "adequate nutrition iabp"
+    ],
+    "instruction": "Assess patient with IABP therapy for adequate nutrition and any skin issues and obtain consult if required.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "LVAD (Left Ventricular Assist Device)",
+    "id": "LVAD_DOC_1",
+    "keywords": [
+      "lvad flow",
+      "lvad speed",
+      "pulsatility index (pi)",
+      "lvad mode"
+    ],
+    "instruction": "LVAD Flow, Speed, Pulsatility Index (PI), and Mode are assesed and charted q1 - 2h and PRN.",
+    "policy": "SHC P&P 30070 - Assessment & Reassessment"
+  },
+  {
+    "category": "LVAD (Left Ventricular Assist Device)",
+    "id": "LVAD_DOC_2",
+    "keywords": [
+      "lvad bp",
+      "lvad vital signs",
+      "vital signs"
+    ],
+    "instruction": "For the LVAD patient, obtain BP manually at least once per shift to validate automatic BP cuff result (unless patient has an arterial line).",
+    "policy": "SHC P&P 30070 - Assessment & Reassessment"
+  },
+  {
+    "category": "Impella",
+    "id": "IMPELLA_DOC_1",
+    "keywords": [
+      "p level",
+      "performance level",
+      "impella flow",
+      "placement signal",
+      "pump position",
+      "purge pressure",
+      "purge solution and infusion rate",
+      "motor current",
+      "pump safety checks"
+    ],
+    "instruction": "P (performance) level, flow, placement signal, pump position, purge pressure, purge solution and infusion rate, motor current, and pump safety checks are performed q1h and PRN.",
+    "policy": "SHC P&P 30070 - Assessment & Reassessment"
+  },
+  {
+    "category": "Impella",
+    "id": "IMPELLA_DOC_2",
+    "keywords": [
+      "impella",
+      "neurovascular checks",
+      "impella neurovascular checks"
+    ],
+    "instruction": "For an IABP,  neurovascular checks: q15 min x 1 hour, then q30 min x 1 hour, then q1h and PRN.",
+    "policy": "SHC P&P 30070 - Assessment & Reassessment"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_1",
+    "keywords": [
+      "o2 therapy",
+      "oxygen therapy",
+      "vent",
+      "vent settings",
+      "ventilator",
+      "ventilator settings"
+    ],
+    "instruction": "O2 therapy and vent settings are documented q shift and PRN with changes.",
+    "policy": "SHC P&P 30070 - Assessment & Reassessment"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_2",
+    "keywords": [
+      "continuous spo2",
+      "continuous spo2 monitoring",
+      "vitals"
+    ],
+    "instruction": "Continuous SpO2 is documented every q2h and PRN\na. Use non-dominant ring or middle finger (1st choice) or dominant ring or middle finger (2nd choice)\nb. Avoid any devices that can impede blood flow to the sensor site (e.g., BP cuff).",
+    "policy": "SHC P&P 30070 - Assessment & Reassessment"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_3",
+    "keywords": [
+      "continuous spo2",
+      "continuous spo2 monitoring",
+      "spo2 troubleshooting",
+      "spo2 considerations"
+    ],
+    "instruction": "Special considertion is made to correlate SpO2 with ABG when possible and to use non-dominant ring or middle finger (1st choice) or dominant ring or middle finger (2nd choice) and avoid any devices that can impede blood flow to the sensor site (e.g., BP cuff) as well as oid nail polish, artificial/long nails, anatomically abnormal fingers as they can lead to erroneous SpO2 measurements.",
+    "policy": "SHC P&P 30070 - Assessment & Reassessment"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_4",
+    "keywords": [
+      "etco2",
+      "end tital co2 monitoring",
+      "end-tidal co2 monitoring"
+    ],
+    "instruction": "End-tidal CO2 monitoring is documented with vital signs and with any clinically significant changes.",
+    "policy": "SHC P&P 30070 - Assessment & Reassessment"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_5",
+    "keywords": [
+      "ett",
+      "ett marker",
+      "ventialtor",
+      "endotracheal tube",
+      "et tube"
+    ],
+    "instruction": "ETT marker measurement is done at the lip and assessed at the beginning of each shift and after changing ETT position and/or securing device.",
+    "policy": "SHC P&P 30070 - Assessment & Reassessment"
+  },
+  {
+    "category": "Intake and Output",
+    "id": "INTAKEANDOUTPUT_DOC_1",
+    "keywords": [
+      "intake"
+    ],
+    "instruction": "Intake (e.g., IV, enteral, flush, water, PO) is documented q1h.",
+    "policy": "SHC P&P 34706.01- Renal Replacement Therapy, SHC P&P 30053.01- Continuous Ambulatory Peritoneal Dialysis, SHC P&P 34740.99 – Peripheral Ultrafiltration/Aquapheresis"
+  },
+  {
+    "category": "Intake and Output",
+    "id": "INTAKEANDOUTPUT_DOC_2",
+    "keywords": [
+      "urine",
+      "urine output"
+    ],
+    "instruction": "Urine output is measured and documented q1 - 2h while foley catheter is in place.",
+    "policy": "SHC P&P 34706.01- Renal Replacement Therapy, SHC P&P 30053.01- Continuous Ambulatory Peritoneal Dialysis, SHC P&P 34740.99 – Peripheral Ultrafiltration/Aquapheresis"
+  },
+  {
+    "category": "Intake and Output",
+    "id": "INTAKEANDOUTPUT_DOC_3",
+    "keywords": [
+      "shift totals",
+      "i & o",
+      "intake and output",
+      "ng tube",
+      "nasograstic tube",
+      "output"
+    ],
+    "instruction": "NG  output is documented q12h or as determined by individual patient status. Advisable to document before 0600 and 1800 for shift totals.",
+    "policy": "SHC P&P 34706.01- Renal Replacement Therapy, SHC P&P 30053.01- Continuous Ambulatory Peritoneal Dialysis, SHC P&P 34740.99 – Peripheral Ultrafiltration/Aquapheresis"
+  },
+  {
+    "category": "Intake and Output",
+    "id": "INTAKEANDOUTPUT_DOC_4",
+    "keywords": [
+      "ccrt",
+      "sled",
+      "scuf",
+      "continuous renal replacement therapy",
+      "slow continuous ultrafiltration",
+      "sustained low-efficiency dialysis",
+      "sustained low efficiency dialysis"
+    ],
+    "instruction": "CRRT (SLED, SCUF) totals are documented q1h.",
+    "policy": "SHC P&P 34706.01- Renal Replacement Therapy, SHC P&P 30053.01- Continuous Ambulatory Peritoneal Dialysis, SHC P&P 34740.99 – Peripheral Ultrafiltration/Aquapheresis"
+  },
+  {
+    "category": "Intake and Output",
+    "id": "INTAKEANDOUTPUT_DOC_5",
+    "keywords": [
+      "crrt",
+      "sled",
+      "continuous renal replacement therapy",
+      "sustained low-efficiency dialysis",
+      "sustained low efficiency dialysis"
+    ],
+    "instruction": "For CRRT/SLED, arterial, venous, and transmembrane (TMP) pressures, blood flow rate, dialysate rate (if applicable), ultrafiltration rate, and ultrafiltration volume removed will be documented q1h.",
+    "policy": "SHC P&P 34706.01- Renal Replacement Therapy, SHC P&P 30053.01- Continuous Ambulatory Peritoneal Dialysis, SHC P&P 34740.99 – Peripheral Ultrafiltration/Aquapheresis"
+  },
+  {
+    "category": "Intake and Output",
+    "id": "INTAKEANDOUTPUT_DOC_6",
+    "keywords": [
+      "capd",
+      "continuous ambulatory peritoneal dialysis"
+    ],
+    "instruction": "For CAPD, document the type of dialysate documented with every indwell. Upon admission, identify name of dialysate and frequency of treatment. If patient is receiving a dialysate that is known to contain interfering substances simultaneously, obtain baseline venous and capillary blood glucose values to determine accuracy. Document amount of effluent after each CAPD cycle.",
+    "policy": "SHC P&P 34706.01- Renal Replacement Therapy, SHC P&P 30053.01- Continuous Ambulatory Peritoneal Dialysis, SHC P&P 34740.99 – Peripheral Ultrafiltration/Aquapheresis"
+  },
+  {
+    "category": "Intake and Output",
+    "id": "INTAKEANDOUTPUT_DOC_7",
+    "keywords": [
+      "puf",
+      "pure ultrafiltration"
+    ],
+    "instruction": "For PUF, document blood pump flow rate, fluid removal rate, infusion pressure and volume removed q1h.",
+    "policy": "SHC P&P 34706.01- Renal Replacement Therapy, SHC P&P 30053.01- Continuous Ambulatory Peritoneal Dialysis, SHC P&P 34740.99 – Peripheral Ultrafiltration/Aquapheresis"
+  },
+  {
+    "category": "Intake and Output",
+    "id": "INTAKEANDOUTPUT_DOC_8",
+    "keywords": [
+      "bm",
+      "bowel movement"
+    ],
+    "instruction": "Document each occurrence of a bowel movement.",
+    "policy": "SHC P&P 34706.01- Renal Replacement Therapy, SHC P&P 30053.01- Continuous Ambulatory Peritoneal Dialysis, SHC P&P 34740.99 – Peripheral Ultrafiltration/Aquapheresis"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_1",
+    "keywords": [
+      "neurological assessment",
+      "neuro assessment",
+      "neuro exam",
+      "neurological exam",
+      "neuro checks",
+      "assessment frequency"
+    ],
+    "instruction": "Upon admission, neurological assessment frequency is done every shift or with change in status.",
+    "policy": "SHC P&P 34023.01 – Intracranial Pressure Monitoring: Set-up & Maintenance, SHC P&P 34308.99 ICU Neuroprognostication after Cardiac Arrest"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_2",
+    "keywords": [
+      "change in status",
+      "neuro change",
+      "neurological change",
+      "change in mental status",
+      "altered mental status",
+      "neuro deterioration"
+    ],
+    "instruction": "If patient has change in status, assess patient q1h x4, then q2h and PRN or per physician order.",
+    "policy": "SHC P&P 34023.01 – Intracranial Pressure Monitoring: Set-up & Maintenance, SHC P&P 34308.99 ICU Neuroprognostication after Cardiac Arrest"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_3",
+    "keywords": [
+      "icp",
+      "cpp",
+      "pbo2",
+      "intracranial pressure",
+      "cerebral perfusion pressure",
+      "brain tissue oxygenation",
+      "intracranial monitoring",
+      "brain monitoring"
+    ],
+    "instruction": "Intracranial Monitoring (ICP/CPP/PbO2) is done q1h & PRN.",
+    "policy": "SHC P&P 34023.01 – Intracranial Pressure Monitoring: Set-up & Maintenance, SHC P&P 34308.99 ICU Neuroprognostication after Cardiac Arrest"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_4",
+    "keywords": [
+      "dysphagia screen",
+      "swallow screen",
+      "swallow assessment",
+      "stroke swallow",
+      "dysphagia",
+      "aspiration risk",
+      "stroke screen"
+    ],
+    "instruction": "Dysphagia screen is to be done on all stroke patients prior to administering any oral fluids or medications.",
+    "policy": "SHC P&P 34023.01 – Intracranial Pressure Monitoring: Set-up & Maintenance, SHC P&P 34308.99 ICU Neuroprognostication after Cardiac Arrest"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_5",
+    "keywords": [
+      "post cardiac arrest",
+      "cardiac arrest neuro",
+      "post arrest neuro",
+      "post code neuro",
+      "neuro after arrest",
+      "neuroprognostication",
+      "pupillometry"
+    ],
+    "instruction": "Post cardiac arrest neurologic monitoring: Follow recommendations for neurologic monitoring, including pupillometry, as outlined in SHC P&P 34308.99 – ICU Neuroprognostication after Cardiac Arrest.",
+    "policy": "SHC P&P 34023.01 – Intracranial Pressure Monitoring: Set-up & Maintenance, SHC P&P 34308.99 ICU Neuroprognostication after Cardiac Arrest"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_6",
+    "keywords": [
+      "co-neurological assessment",
+      "joint neuro assessment",
+      "neuro handoff",
+      "change of shift neuro",
+      "shift handoff neuro",
+      "neuro transfer assessment"
+    ],
+    "instruction": "Perform Joint/Co-Neurological assessment for patients admitted for neurological disorder and for patients exhibiting acute onset of neurological deficits with the oncoming and off going nurses at change-of-shift and upon transfer.",
+    "policy": "N/A"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_7",
+    "keywords": [
+      "neuro assessment components",
+      "neurological exam components",
+      "what to assess neuro",
+      "neuro exam elements",
+      "complete neuro exam",
+      "gcs",
+      "glasgow coma scale"
+    ],
+    "instruction": "Co-Neurological assessment includes: neurological symptoms, level of consciousness, pupils (size, description, reaction), orientation, characteristics of speech/communication, facial expression & symmetry, extremity (motor, strength, tone and sensation), and GCS.",
+    "policy": "N/A"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_8",
+    "keywords": [
+      "stroke assessment",
+      "tia assessment",
+      "stroke dx",
+      "nihss",
+      "nih stroke scale",
+      "baseline nihss",
+      "stroke score",
+      "transient ischemic attack"
+    ],
+    "instruction": "For stroke, TIA or possible stroke diagnosis, include baseline NIHSS score.",
+    "policy": "N/A"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_9",
+    "keywords": [
+      "neuro change",
+      "neurological change",
+      "notify provider neuro",
+      "significant neuro change",
+      "neuro deterioration",
+      "baseline change"
+    ],
+    "instruction": "Notify provider with any significant neuro change from patient's baseline.",
+    "policy": "N/A"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_10",
+    "keywords": [
+      "neuromuscular blockade",
+      "paralytic",
+      "nmb",
+      "train of four",
+      "tof",
+      "analgesia sedation paralytic",
+      "sedation before paralytic"
+    ],
+    "instruction": "Initiate analgesia and sedation prior to administering paralytic.",
+    "policy": "AACN Procedure Manual, Mosby’s Skills"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_11",
+    "keywords": [
+      "assumed pain present",
+      "paralytic pain",
+      "pain assessment paralytic",
+      "cpot paralytic",
+      "pain documentation nmb",
+      "richmond agitation-sedation scale",
+      "critical-care pain observation tool"
+    ],
+    "instruction": "Document 'Assumed Pain Present' in pain assessment flowsheet in lieu of CPOT when patient is on neuromuscular blockade.",
+    "policy": "AACN Procedure Manual, Mosby’s Skills"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_12",
+    "keywords": [
+      "rass before paralytic",
+      "rass nmb",
+      "sedation level paralytic",
+      "rass goal paralytic",
+      "rass -4 to -5",
+      "richmond agitation-sedation scale",
+      "neuromuscular blockade"
+    ],
+    "instruction": "Ensure patient's RASS is -4 to -5 prior to initiating Neuromuscular blocking agent infusion.",
+    "policy": "AACN Procedure Manual, Mosby’s Skills"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_13",
+    "keywords": [
+      "bis monitor",
+      "bispectral index",
+      "bis goal",
+      "sedation monitoring bis",
+      "bis 40-60"
+    ],
+    "instruction": "If available, use Bispectral Index Monitor (BIS) monitoring for sedation adequacy; goal 40-60.",
+    "policy": "AACN Procedure Manual, Mosby’s Skills"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_14",
+    "keywords": [
+      "pns",
+      "peripheral nerve stimulation",
+      "train of four",
+      "tof baseline",
+      "baseline tof",
+      "establish tof baseline"
+    ],
+    "instruction": "Peripheral Nerve Stimulation (PNS) and Train-of-Four (TOF) should be used to establish baseline TOF whenever possible. This is the baseline energy level to be used for all future tests.",
+    "policy": "AACN Procedure Manual, Mosby’s Skills"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_15",
+    "keywords": [
+      "baseline tof measurement",
+      "tof before paralytic",
+      "4/4 twitches",
+      "tof documentation emr",
+      "frequency of twitches",
+      "train of four"
+    ],
+    "instruction": "Baseline measurement should be completed and documented in EMR prior to initiation of paralytic to determine frequency at which patient has 4/4 twitches.",
+    "policy": "AACN Procedure Manual, Mosby’s Skills"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_16",
+    "keywords": [
+      "tof testing sites",
+      "tof site location",
+      "ulnar nerve tof",
+      "posterior tibial tof",
+      "facial nerve tof",
+      "where to test tof",
+      "train of four"
+    ],
+    "instruction": "Sites for TOF testing include: (1) (preferred site): Ulnar nerve, (2) Posterior Tibial, and (3) Facial nerve.",
+    "policy": "AACN Procedure Manual, Mosby’s Skills"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_17",
+    "keywords": [
+      "tof goal",
+      "level of blockade",
+      "twitches goal",
+      "1-2 twitches",
+      "assess blockade",
+      "pns tof assessment",
+      "train of four",
+      "peripheral nerve simulator",
+      "peripheral nerve stimulation"
+    ],
+    "instruction": "Use PNS and TOF to assess appropriate level of blockade, with goal of 1-2/4 twitches or as ordered.",
+    "policy": "AACN Procedure Manual, Mosby’s Skills"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_18",
+    "keywords": [
+      "tof after bolus",
+      "tof timing",
+      "assess tof 10-15 mins",
+      "tof infusion rate change",
+      "when to assess tof",
+      "train of four"
+    ],
+    "instruction": "Assess TOF 10-15 mins after bolus or change in continuous infusion rate.",
+    "policy": "AACN Procedure Manual, Mosby’s Skills"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_19",
+    "keywords": [
+      "tof q4h",
+      "tof frequency",
+      "assess tof q 4 hrs",
+      "routine tof assessment",
+      "tof at desired level",
+      "train of four"
+    ],
+    "instruction": "Assess TOF q 4 hrs when patient is at desired level of blockade.",
+    "policy": "AACN Procedure Manual, Mosby’s Skills"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_20",
+    "keywords": [
+      "change tof electrodes",
+      "tof electrode change",
+      "electrical stimulation increase",
+      "swelling tof",
+      "tof troubleshooting"
+    ],
+    "instruction": "Change electrodes as needed. Increase in electrical stimulation may be needed if patient has increase in swelling.",
+    "policy": "AACN Procedure Manual, Mosby’s Skills"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_21",
+    "keywords": [
+      "eye lubricant",
+      "eye care",
+      "artificial tears",
+      "eye lubrication paralytic",
+      "eye care q4h",
+      "eyelids closed"
+    ],
+    "instruction": "Eye lubricant will be applied q4h and PRN, eyelids kept closed when patient is unable to blink or completely close eyes, or pharmacological paralytics or is heavily sedated.",
+    "policy": "Mosby's Skills (Marshall, A.P. (2008). Eye care in the critically ill: Clinical practice guideline. Aust Crit Care, 21(2), 97-109), Mosby’s Skills - Seizure\nPrecautions"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_22",
+    "keywords": [
+      "eye care icu",
+      "cleaning eyes",
+      "saline gauze eyes",
+      "eye-specific lubricant",
+      "eye care procedure"
+    ],
+    "instruction": "Eye care includes cleaning with saline-soaked gauze and administration of an eye-specific lubricant.",
+    "policy": "Mosby's Skills (Marshall, A.P. (2008). Eye care in the critically ill: Clinical practice guideline. Aust Crit Care, 21(2), 97-109), Mosby’s Skills - Seizure\nPrecautions"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_23",
+    "keywords": [
+      "seizure precautions",
+      "seizure safety",
+      "side rails seizure",
+      "oral airway seizure",
+      "seizure disorder precautions",
+      "seizure protocols"
+    ],
+    "instruction": "Seizure precautions will be instituted for patients with an actual seizure disorder and will include the following: Side rails up and padded, and oral airway at HOB if not intubated.",
+    "policy": "Mosby's Skills (Marshall, A.P. (2008). Eye care in the critically ill: Clinical practice guideline. Aust Crit Care, 21(2), 97-109), Mosby’s Skills - Seizure\nPrecautions"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_24",
+    "keywords": [
+      "pupillometer",
+      "pupillometry",
+      "automated pupillometer",
+      "pupil monitoring",
+      "npi",
+      "neurological pupil index",
+      "pupillometer indications"
+    ],
+    "instruction": "Pupillometer monitoring is recommended for patients with high risk for neurologic deterioration or per provider order, such as: Cerebral edema, Minor (GCS13-15), Moderate (GCS 9-12), severe head injuries (GCS ≤ 8), Increasing intracranial pressure, Patient with ICP monitoring, Subarachnoid hemorrhage from aneurysmal rupture or malformation, Intracerebral hemorrhage, Ischemic strokes, Neurosurgical procedures, Post cardiac arrest, Sedated or pharmacologically paralyzed patients, Difficult to assess pupils (i.e. high dose sedation, pinpoint pupils), Any patient requiring close monitoring of pupillary assessment, As directed by P&P 34308.99 for neuroprognostication after cardiac arrest.",
+    "policy": "AACN Procedure Manual; SHC P&P 34308.99 ICU Neuroprognostication Protocol after Cardiac Arrest"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_25",
+    "keywords": [
+      "pupillometer baseline",
+      "baseline pupillometry assessment",
+      "initial pupillometer"
+    ],
+    "instruction": "Perform baseline pupillometer assessment.",
+    "policy": "AACN Procedure Manual; SHC P&P 34308.99 ICU Neuroprognostication Protocol after Cardiac Arrest"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_26",
+    "keywords": [
+      "pupillometer frequency",
+      "pupillometry with neuro checks",
+      "when to assess pupillometer",
+      "pupillometer schedule"
+    ],
+    "instruction": "Assess pupillometer with neuro checks or per provider order.",
+    "policy": "AACN Procedure Manual; SHC P&P 34308.99 ICU Neuroprognostication Protocol after Cardiac Arrest"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_27",
+    "keywords": [
+      "pupillometer both pupils",
+      "assess both pupils pupillometry",
+      "bilateral pupillometer"
+    ],
+    "instruction": "Assess both pupils with pupillometer.",
+    "policy": "AACN Procedure Manual; SHC P&P 34308.99 ICU Neuroprognostication Protocol after Cardiac Arrest"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_28",
+    "keywords": [
+      "npi",
+      "neurological pupil index",
+      "pupil size",
+      "min",
+      "resting pupil size",
+      "peak constriction pupil",
+      "document npi",
+      "neurological pupil index"
+    ],
+    "instruction": "Document NPI (Neurological Pupil index), Size (resting pupil size), MIN (pupil size at peak of constriction) for each eye.",
+    "policy": "AACN Procedure Manual; SHC P&P 34308.99 ICU Neuroprognostication Protocol after Cardiac Arrest"
+  },
+  {
+    "category": "Neurological",
+    "id": "NEURO_DOC_29",
+    "keywords": [
+      "abnormal pupillometer",
+      "notify provider pupillometry",
+      "pupil change < 10%",
+      "abnormal npi",
+      "light stimulation pupil",
+      "unequal pupils",
+      "pupil difference > 1 mm",
+      "anisocoria",
+      "npi < 3",
+      "npi decreasing",
+      "npi difference ≥ 0.7",
+      "npi",
+      "neurological pupil index"
+    ],
+    "instruction": "Collaborate with provider for abnormal pupillometer changes and or findings: Change in pupil size < 10% before and after light stimulation, Unequal pupils, difference > 1 mm, NPI < 3 or decreasing trend, NPI difference ≥ 0.7.",
+    "policy": "AACN Procedure Manual; SHC P&P 34308.99 ICU Neuroprognostication Protocol after Cardiac Arrest"
+  },
+  {
+    "category": "Stroke",
+    "id": "STROKE_DOC_01",
+    "keywords": [
+      "tnkase stroke vitals",
+      "evt stroke vitals",
+      "post tenecteplase vitals",
+      "endovascular therapy vitals",
+      "thrombolysis vitals frequency"
+    ],
+    "instruction": "For Post Tenecteplase (TNKase)/Endovascular Therapy (EVT) Stroke patients, the frequency of vital signs, neuro checks, and bleeding assessment will be q15min x 2 hrs from time of TNKase/EVT, q30min x 6 hrs, then q1hr x 16hrs.",
+    "policy": "Care of the Patient With Acute Ischemic Stroke (Endovascular/Intensive Care Unit - Postinterventional Therapy): Update to the 2009 Comprehensive Nursing Care, AHA Scientific Statement, Stroke Ischemic Post Alteplase (TPA) Admission Order Set, Stroke Ischemic Thrombolysis Order Set"
+  },
+  {
+    "category": "Stroke",
+    "id": "STROKE_DOC_04",
+    "keywords": [
+      "groin site assessment",
+      "peripheral pulses stroke",
+      "groin check post procedure",
+      "femoral site assessment",
+      "endovascular therapy vitals",
+      "thrombolysis vitals frequency",
+      "evt stroke"
+    ],
+    "instruction": "For Endovascular Therapy (EVT) Stroke patients, groin site and peripheral pulses will be done Q15min x 4, q30min x 2, then q1hr x4, then routine.",
+    "policy": "Care of the Patient With Acute Ischemic Stroke (Endovascular/Intensive Care Unit - Postinterventional Therapy): Update to the 2009 Comprehensive Nursing Care, AHA Scientific Statement, Stroke Ischemic Post Alteplase (TPA) Admission Order Set, Stroke Ischemic Thrombolysis Order Set"
+  },
+  {
+    "category": "Stroke",
+    "id": "STROKE_DOC_02",
+    "keywords": [
+      "ischemic stroke vitals",
+      "stroke thrombolysis vitals",
+      "angioedema assessment stroke",
+      "bleeding assessment stroke"
+    ],
+    "instruction": "For Ischemic Stroke Thrombolysis: vital signs, neuro checks, angioedema assessment and bleeding assessment will be done q15min x 2 hrs, q30 min x 6 hrs, then q1hr x 16 hrs.",
+    "policy": "Care of the Patient With Acute Ischemic Stroke (Endovascular/Intensive Care Unit - Postinterventional Therapy): Update to the 2009 Comprehensive Nursing Care, AHA Scientific Statement, Stroke Ischemic Post Alteplase (TPA) Admission Order Set, Stroke Ischemic Thrombolysis Order Set"
+  },
+  {
+    "category": "Stroke",
+    "id": "STROKE_DOC_03",
+    "keywords": [
+      "hemorrhagic stroke vitals",
+      "ich vitals",
+      "sah vitals",
+      "intracerebral hemorrhage vitals",
+      "subarachnoid hemorrhage vitals",
+      "ich",
+      "sah"
+    ],
+    "instruction": "For Hemorrhagic Stroke (Intracerebral Hemorrhage, Subarachnoid Hemorrhage), vital signs and neuro checks will be done q15min x 4, q30min x 2, then Q1hr.",
+    "policy": "Care of the Patient With Acute Ischemic Stroke (Endovascular/Intensive Care Unit - Postinterventional Therapy): Update to the 2009 Comprehensive Nursing Care, AHA Scientific Statement, Stroke Ischemic Post Alteplase (TPA) Admission Order Set, Stroke Ischemic Thrombolysis Order Set"
+  },
+  {
+    "category": "Stroke",
+    "id": "STROKE_DOC_06",
+    "keywords": [
+      "bedside swallow screen",
+      "stroke swallow screen",
+      "dysphagia screen stroke",
+      "npo stroke",
+      "swallow screen admission"
+    ],
+    "instruction": "For patients with a diagnosis of Stroke/TIA or possible stroke, nurse will perform and document a bedside nursing swallow screen upon admission (if not done in ED), with any change in LOC, and upon transfer from another facility. Keep NPO until bedside nursing swallow screen is performed and passed before giving food, liquids or medications. Document appropriately.",
+    "policy": "Care of the Patient With Acute Ischemic Stroke (Endovascular/Intensive Care Unit - Postinterventional Therapy): Update to the 2009 Comprehensive Nursing Care, AHA Scientific Statement, Stroke Ischemic Post Alteplase (TPA) Admission Order Set, Stroke Ischemic Thrombolysis Order Set"
+  },
+  {
+    "category": "Stroke",
+    "id": "STROKE_DOC_07",
+    "keywords": [
+      "stroke blood glucose",
+      "stroke bg monitoring",
+      "poc achs stroke",
+      "diabetic stroke glucose",
+      "bg < 180 stroke"
+    ],
+    "instruction": "For patients with a diagnosis of Stroke/TIA or possible stroke, monitor blood glucose POC AC/HS as dictated by order set, including both diabetics and non-diabetics with a goal of BG < 180 for 3 days.",
+    "policy": "Care of the Patient With Acute Ischemic Stroke (Endovascular/Intensive Care Unit - Postinterventional Therapy): Update to the 2009 Comprehensive Nursing Care, AHA Scientific Statement, Stroke Ischemic Post Alteplase (TPA) Admission Order Set, Stroke Ischemic Thrombolysis Order Set"
+  },
+  {
+    "category": "Stroke",
+    "id": "STROKE_DOC_08",
+    "keywords": [
+      "antipyretics stroke",
+      "fever management stroke",
+      "temp > 37.5 stroke",
+      "temperature control stroke"
+    ],
+    "instruction": "For patients with a diagnosis of Stroke/TIA or possible stroke, consider antipyretics, by MD order, for temp > 37.5",
+    "policy": "Care of the Patient With Acute Ischemic Stroke (Endovascular/Intensive Care Unit - Postinterventional Therapy): Update to the 2009 Comprehensive Nursing Care, AHA Scientific Statement, Stroke Ischemic Post Alteplase (TPA) Admission Order Set, Stroke Ischemic Thrombolysis Order Set"
+  },
+  {
+    "category": "Stroke",
+    "id": "STROKE_DOC_09",
+    "keywords": [
+      "nihss",
+      "nih stroke scale",
+      "nihss admission",
+      "nihss each shift",
+      "nihss prn",
+      "nihss discharge"
+    ],
+    "instruction": "Perform and document full NIHSS upon admission, each shift, and PRN with neurological changes and upon discharge.",
+    "policy": "Care of the Patient With Acute Ischemic Stroke (Endovascular/Intensive Care Unit - Postinterventional Therapy): Update to the 2009 Comprehensive Nursing Care, AHA Scientific Statement, Stroke Ischemic Post Alteplase (TPA) Admission Order Set, Stroke Ischemic Thrombolysis Order Set"
+  },
+  {
+    "category": "Stroke",
+    "id": "STROKE_DOC_10",
+    "keywords": [
+      "dvt prophylaxis stroke",
+      "dvt stroke",
+      "day 2 dvt prophylaxis",
+      "stroke dvt prevention"
+    ],
+    "instruction": "For patients with a diagnosis of stroke/TIA or possible stroke, unless contraindicated implement DVT prophylaxis measures as ordered by physician and/or by Day 2 of admission.",
+    "policy": "Care of the Patient With Acute Ischemic Stroke (Endovascular/Intensive Care Unit - Postinterventional Therapy): Update to the 2009 Comprehensive Nursing Care, AHA Scientific Statement, Stroke Ischemic Post Alteplase (TPA) Admission Order Set, Stroke Ischemic Thrombolysis Order Set"
+  },
+  {
+    "category": "Stroke",
+    "id": "STROKE_DOC_11",
+    "keywords": [
+      "stroke education",
+      "stroke teaching",
+      "smoking cessation stroke",
+      "stroke risk factors",
+      "stroke discharge education",
+      "home medication list stroke",
+      "mar stroke",
+      "stroke core measures"
+    ],
+    "instruction": "Provide patient and family with stroke education, including individualized risk factors and smoking cessation. Document education provided in EMR. Compare Home Medication List, MAR, discharge orders/prescriptions and Stroke Core Measures to ensure patient is being discharged with the appropriate medications.",
+    "policy": "Care of the Patient With Acute Ischemic Stroke (Endovascular/Intensive Care Unit - Postinterventional Therapy): Update to the 2009 Comprehensive Nursing Care, AHA Scientific Statement, Stroke Ischemic Post Alteplase (TPA) Admission Order Set, Stroke Ischemic Thrombolysis Order Set"
+  },
+  {
+    "category": "Cardiology",
+    "id": "CARDIACPRESSURELINE_DOC_1",
+    "keywords": [
+      "arterial line waveform",
+      "a-line waveform",
+      "arterial pressure waveform",
+      "continuous pressure monitoring",
+      "pulmonary artery waveform"
+    ],
+    "instruction": "Pulmonary artery and arterial pressure waveform must be continuously displayed on the monitor.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology",
+    "id": "CARDIACPRESSURELINE_DOC_2",
+    "keywords": [
+      "transducer leveling",
+      "level transducer",
+      "a/p leveling",
+      "4th intercostal space",
+      "phlebostatic axis",
+      "hob < 60 pressure",
+      "cardiac output hob"
+    ],
+    "instruction": "Transducer will be leveled at mid-anterior/posterior (A/P) at the 4th intercostal space every shift and PRN. Keep HOB < 60° for all pressure measurements. Cardiac output will be measured with HOB < 60°.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology",
+    "id": "CARDIACPRESSURELINE_DOC_3",
+    "keywords": [
+      "zero arterial line",
+      "zero a-line",
+      "zero transducer",
+      "zero q shift",
+      "waveform change zero",
+      "opening system zero"
+    ],
+    "instruction": "Zero the pressure lines q shift, when set-up is changed, waveform changes, and PRN with opening of the system.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology",
+    "id": "CARDIACPRESSURELINE_DOC_4",
+    "keywords": [
+      "dynamic response",
+      "snap test",
+      "square wave test",
+      "arterial line snap test",
+      "waveform configuration change"
+    ],
+    "instruction": "Dynamic response ('snap test') will be performed q shift and PRN with changes in waveform configuration.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology",
+    "id": "CARDIACPRESSURELINE_DOC_5",
+    "keywords": [
+      "ns flush solution",
+      "normal saline flush",
+      "arterial line flush",
+      "pressure line flush"
+    ],
+    "instruction": "Standard normal saline flush solution will be used.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology",
+    "id": "CARDIACPRESSURELINE_DOC_6",
+    "keywords": [
+      "pressure bag",
+      "300 mmhg pressure bag",
+      "inflate pressure bag",
+      "flush bag change",
+      "transducer setup change q96h",
+      "extension tubing change"
+    ],
+    "instruction": "Pressure line (except ICP and lumbar drains) will have pressure bag inflated and maintained at 300 mmHg. The flush bag along with transducer setups will be changed q96h (including extension tubing).",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology",
+    "id": "CARDIACPRESSURELINE_DOC_7",
+    "keywords": [
+      "line reconciliation",
+      "pressure line reconciliation",
+      "trace pressure line",
+      "pressure monitoring reconciliation q shift"
+    ],
+    "instruction": "Perform line reconciliation for all pressure monitoring lines and devices q shift and prn including the following steps: Trace pressure monitoring lines beginning at pressure bag, to the transducer tubing system, all the way to the patient, Ensure all connections are secured. Ensure the flush bag contains solution to maintain catheter patency and pressure bag is inflated to 300mmHg.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology",
+    "id": "CARDIACPRESSURELINE_DOC_8",
+    "keywords": [
+      "maximum barriers",
+      "sterile insertion",
+      "line insertion ppe",
+      "cap mask sterile gloves",
+      "line insertion timeout",
+      "procedure note line insertion"
+    ],
+    "instruction": "Maximum barriers are used for line insertion. MD must wear cap, mask, sterile gloves, sterile gown and others in the room must wear cap and mask during line insertion. A time out is completed, and the procedure note is used to document the insertion.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology",
+    "id": "CARDIACPRESSURELINE_DOC_9",
+    "keywords": [
+      "pressure readings end-expiration",
+      "arterial line reading timing",
+      "when to read pressures",
+      "end-expiration hemodynamics"
+    ],
+    "instruction": "All pressure readings will be done at end-expiration.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology - Pressure Line Monitoring",
+    "id": "CARDIACPRESSURELINE_DOC_10",
+    "keywords": [
+      "arterial line waveform",
+      "a-line waveform display",
+      "arterial pressure display",
+      "monitor arterial waveform"
+    ],
+    "instruction": "Arterial pressure waveforms must ALWAYS be displayed on the monitor.",
+    "policy": "SHC P&P 30601.01 – Central Venous, Arterial, & Midline Catheter: Dressing Change, AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology - Pressure Line Monitoring",
+    "id": "CARDIACPRESSURELINE_DOC_11",
+    "keywords": [
+      "arterial line assessment",
+      "a-line site assessment",
+      "arterial insertion site",
+      "assess a-line q shift",
+      "arterial line infection",
+      "arterial line bleeding",
+      "arterial line hematoma"
+    ],
+    "instruction": "Arterial insertion sites and surrounding area will be assessed q shift and PRN for signs of infection, bleeding or hematoma.",
+    "policy": "SHC P&P 30601.01 – Central Venous, Arterial, & Midline Catheter: Dressing Change, AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology - Pressure Line Monitoring",
+    "id": "CARDIACPRESSURELINE_DOC_12",
+    "keywords": [
+      "arterial catheter removal",
+      "a-line removal",
+      "remove arterial line",
+      "manual pressure after a-line removal",
+      "notify provider stat arterial removal"
+    ],
+    "instruction": "For (radial) arterial catheter removal, manual pressure is applied after removal and provider notified STAT if the extremity becomes swollen, cold, and pulseless or discolored, or any signs or symptoms of bleeding occur.",
+    "policy": "SHC P&P 30601.01 – Central Venous, Arterial, & Midline Catheter: Dressing Change, AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology - Pressure Line Monitoring",
+    "id": "CARDIACPRESSURELINE_DOC_13",
+    "keywords": [
+      "radial arterial line removal",
+      "radial a-line removal",
+      "manual pressure radial",
+      "5 min pressure radial",
+      "radial line bleeding"
+    ],
+    "instruction": "For radial arterial line removal, apply manual pressure for a minimum of 5 min or until bleeding stops following line removal.",
+    "policy": "SHC P&P 30601.01 – Central Venous, Arterial, & Midline Catheter: Dressing Change, AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology - Pressure Line Monitoring",
+    "id": "CARDIACPRESSURELINE_DOC_14",
+    "keywords": [
+      "femoral arterial line removal",
+      "femoral a-line removal",
+      "femostop",
+      "manual pressure femoral",
+      "30 minutes pressure femoral",
+      "femoral sheath removal"
+    ],
+    "instruction": "For femoral (monitoring catheter or sheath), apply manual pressure or use Femostop for minimum of 30 minutes following removal, or until bleeding stops and hemostasis is achieved.",
+    "policy": "SHC P&P 30601.01 – Central Venous, Arterial, & Midline Catheter: Dressing Change, AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology - Pressure Line Monitoring",
+    "id": "CARDIACPRESSURELINE_DOC_15",
+    "keywords": [
+      "femoral site dressing",
+      "2x2 dressing femoral",
+      "hob < 30 x 6 hrs femoral",
+      "bedrest after femoral removal",
+      "femoral insertion site care"
+    ],
+    "instruction": "Arterail insertion sites will then be dressed with sterile 2x2 and transparent dressing. Patient will remain on bedrest with HOB < 30° x 6 hrs.",
+    "policy": "SHC P&P 30601.01 – Central Venous, Arterial, & Midline Catheter: Dressing Change, AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology - Pressure Line Monitoring",
+    "id": "CARDIACPRESSURELINE_DOC_16",
+    "keywords": [
+      "arterial and venous sheaths",
+      "remove arterial sheath first",
+      "sheath removal order",
+      "arterial before venous sheath"
+    ],
+    "instruction": "If both arterial and venous sheaths are present, the arterial sheath is removed first, then venous sheath.",
+    "policy": "SHC P&P 30601.01 – Central Venous, Arterial, & Midline Catheter: Dressing Change, AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology - Pressure Line Monitoring",
+    "id": "CARDIACPRESSURELINE_DOC_17",
+    "keywords": [
+      "neurovascular checks femoral",
+      "site checks femoral",
+      "q15min x4 femoral",
+      "q30min x2 femoral",
+      "q1h x4 femoral",
+      "post femoral removal assessment"
+    ],
+    "instruction": "After arterial line removal, complete neurovascular and site checks q15min x4, q30min x2, q1h x4, PRN or as ordered by provider.",
+    "policy": "SHC P&P 30601.01 – Central Venous, Arterial, & Midline Catheter: Dressing Change, AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology - Pulmonary Artery Catheter",
+    "id": "CARDIACPAC_DOC_01",
+    "keywords": [
+      "pa catheter insertion",
+      "pulmonary artery catheter insertion",
+      "swan insertion",
+      "pa line insertion",
+      "record waveform insertion"
+    ],
+    "instruction": "During insertion of pulmonary artery catheter insertion, note and/or record waveform values obtained during insertion.",
+    "policy": "AACN Procedure Manual, PA Catheter Troubleshooting Guide"
+  },
+  {
+    "category": "Cardiology - Pulmonary Artery Catheter",
+    "id": "CARDIACPAC_DOC_02",
+    "keywords": [
+      "catheter insertion mark",
+      "pa catheter mark",
+      "lines and tubes assessment",
+      "document waveforms pa",
+      "catheter mark cerner"
+    ],
+    "instruction": "Document pulmonary artery catheter insertion mark on Lines and Tubes Assessment in Cerner. Document waveforms.",
+    "policy": "AACN Procedure Manual, PA Catheter Troubleshooting Guide"
+  },
+  {
+    "category": "Cardiology - Pulmonary Artery Catheter",
+    "id": "CARDIACPAC_DOC_03",
+    "keywords": [
+      "post-insertion chest x-ray",
+      "pa catheter cxr",
+      "chest x-ray after pa line",
+      "swan cxr"
+    ],
+    "instruction": "Obtain post-pulmonary artery catheter insertion chest x-ray.",
+    "policy": "AACN Procedure Manual, PA Catheter Troubleshooting Guide"
+  },
+  {
+    "category": "Cardiology - Pulmonary Artery Catheter",
+    "id": "CARDIACPAC_DOC_04",
+    "keywords": [
+      "pa waveform monitoring",
+      "pulmonary artery waveform",
+      "monitor pa waveform",
+      "swan waveform"
+    ],
+    "instruction": "Pulmonary artery waveforms must ALWAYS be monitored.",
+    "policy": "AACN Procedure Manual, PA Catheter Troubleshooting Guide"
+  },
+  {
+    "category": "Cardiology - Pulmonary Artery Catheter",
+    "id": "CARDIACPAC_DOC_05",
+    "keywords": [
+      "permanent wedge",
+      "pcwp waveform change",
+      "wedge waveform stuck",
+      "pa catheter wedge position",
+      "reposition pa catheter"
+    ],
+    "instruction": "If waveform changes to permanent wedge (PCWP): Reposition patient and if waveforms still looks like in wedge (PCWP) position make sure balloon is deflated. Notify provider. If ordered, RN may withdraw catheter slightly until appearance of PA waveform.",
+    "policy": "AACN Procedure Manual, PA Catheter Troubleshooting Guide"
+  },
+  {
+    "category": "Cardiology - Pulmonary Artery Catheter",
+    "id": "CARDIACPAC_DOC_06",
+    "keywords": [
+      "rv waveform",
+      "right ventricular waveform",
+      "rv waveform pa catheter",
+      "pa catheter rv position",
+      "withdraw pa catheter"
+    ],
+    "instruction": "If RV waveform noted on monitor, the provider must be notified and if ordered, the nurse can withdraw catheter slightly until appearance of RA waveform.",
+    "policy": "AACN Procedure Manual, PA Catheter Troubleshooting Guide"
+  },
+  {
+    "category": "Cardiology - Pulmonary Artery Catheter",
+    "id": "CARDIACPAC_DOC_07",
+    "keywords": [
+      "pcwp",
+      "pulmonary capillary wedge pressure",
+      "wedge pressure",
+      "obtain pcwp",
+      "pa catheter wedge"
+    ],
+    "instruction": "Obtaining a pulmonary capillary wedge pressure (PCWP) will be performed only with physician order.",
+    "policy": "AACN Procedure Manual, PA Catheter Troubleshooting Guide"
+  },
+  {
+    "category": "Cardiology - Pulmonary Artery Catheter",
+    "id": "CARDIACPAC_DOC_08",
+    "keywords": [
+      "pa catheter balloon inflation",
+      "balloon inflation syringe",
+      "pa catheter syringe",
+      "wedge balloon inflation"
+    ],
+    "instruction": "Use only the syringe that is manufactured for PA catheter for balloon inflation. The syringe and balloon should be kept empty of air and the valve kept closed when not in use.",
+    "policy": "AACN Procedure Manual, PA Catheter Troubleshooting Guide"
+  },
+  {
+    "category": "Cardiology - Pulmonary Artery Catheter",
+    "id": "CARDIACPAC_DOC_09",
+    "keywords": [
+      "calibrate svo2",
+      "svo2 calibration",
+      "svo2 within 2 hours",
+      "hemoglobin change svo2",
+      "update hemoglobin svo2",
+      "cco",
+      "continuous cardiac output"
+    ],
+    "instruction": "For CCO (Continuous Cardiac Output), calibrate SvO2 monitors within 2 hours of admission to the unit, as determined by individual patient status, and daily. Update hemoglobin if value changes by 1.8 g/dL.",
+    "policy": "AACN Procedure Manual, PA Catheter Troubleshooting Guide"
+  },
+  {
+    "category": "Cardiology - Pulmonary Artery Catheter",
+    "id": "CARDIACPAC_DOC_10",
+    "keywords": [
+      "level pa transducer",
+      "pa catheter leveling",
+      "4th intercostal space pa",
+      "level transducer q shift pa"
+    ],
+    "instruction": "Transducer for pulmonary artery catheter will be leveled at mid-anterior/posterior (A/P) at the 4th intercostal space q shift and PRN.",
+    "policy": "AACN Procedure Manual, PA Catheter Troubleshooting Guide"
+  },
+  {
+    "category": "Cardiology - Pulmonary Artery Catheter",
+    "id": "CARDIACPAC_DOC_11",
+    "keywords": [
+      "pa catheter dressing",
+      "biopatch pa catheter",
+      "occlusive dressing pa",
+      "transparent dressing pa catheter"
+    ],
+    "instruction": "Pulmonary artery catheter insertion site will be covered with an occlusive and transparent dressing with Biopatch.",
+    "policy": "AACN Procedure Manual, PA Catheter Troubleshooting Guide"
+  },
+  {
+    "category": "LVAD (Left Ventricular Assist Device)",
+    "id": "LVAD_DOC_03",
+    "keywords": [
+      "lvad bp manual",
+      "manual bp lvad",
+      "validate automatic bp cuff lvad",
+      "doppler pressure lvad",
+      "bp once per shift lvad"
+    ],
+    "instruction": "In relation to BP and LVAD, use Doppler pressure with change in patient status.",
+    "policy": "SHC P&P 34715.01 – Ventricular Assist Device: Driveline Site Care"
+  },
+  {
+    "category": "LVAD (Left Ventricular Assist Device)",
+    "id": "LVAD_DOC_04",
+    "keywords": [
+      "lvad driveline site",
+      "assess driveline site",
+      "lvad dressing",
+      "driveline site every shift",
+      "document driveline site"
+    ],
+    "instruction": "Assess and document LVAD drive line site and dressing at least every shift.",
+    "policy": "SHC P&P 34715.01 – Ventricular Assist Device: Driveline Site Care"
+  },
+  {
+    "category": "LVAD (Left Ventricular Assist Device)",
+    "id": "LVAD_DOC_05",
+    "keywords": [
+      "lvad driveline pulling",
+      "driveline free from pulling",
+      "secure driveline",
+      "driveline site care"
+    ],
+    "instruction": "Ensure that drive line is free from pulling on drive line site.",
+    "policy": "SHC P&P 34715.01 – Ventricular Assist Device: Driveline Site Care"
+  },
+  {
+    "category": "LVAD (Left Ventricular Assist Device)",
+    "id": "LVAD_DOC_06",
+    "keywords": [
+      "lvad extra controller",
+      "lvad extra power source",
+      "lvad controller bedside",
+      "lvad power backup",
+      "lvad emergency equipment"
+    ],
+    "instruction": "Ensure that patient has LVAD Extra Controller and extra power source at bedside and with them at all times.",
+    "policy": "SHC P&P 34715.01 – Ventricular Assist Device: Driveline Site Care"
+  },
+  {
+    "category": "LVAD (Left Ventricular Assist Device)",
+    "id": "LVAD_DOC_07",
+    "keywords": [
+      "lvad driveline dressing care",
+      "lvad sterile technique",
+      "lvad dressing change",
+      "driveline site care policy"
+    ],
+    "instruction": "Unless otherwise ordered, follow drive line site care policy for dressing care instructions using sterile technique.",
+    "policy": "SHC P&P 34715.01 – Ventricular Assist Device: Driveline Site Care"
+  },
+  {
+    "category": "LVAD (Left Ventricular Assist Device)",
+    "id": "LVAD_DOC_08",
+    "keywords": [
+      "lvad system test",
+      "system controller test",
+      "power module test q24h",
+      "lvad q24h test"
+    ],
+    "instruction": "Perform system test on System Controller and Power Module q24h.",
+    "policy": "SHC P&P 34715.01 – Ventricular Assist Device: Driveline Site Care"
+  },
+  {
+    "category": "LVAD (Left Ventricular Assist Device)",
+    "id": "LVAD_DOC_09",
+    "keywords": [
+      "lvad power leads",
+      "never disconnect both power leads",
+      "external power loss lvad",
+      "disconnect power leads lvad"
+    ],
+    "instruction": "For LVAD, never disconnect both power leads at the same time (Will lead to external power loss).",
+    "policy": "SHC P&P 34715.01 – Ventricular Assist Device: Driveline Site Care"
+  },
+  {
+    "category": "LVAD (Left Ventricular Assist Device)",
+    "id": "LVAD_DOC_10",
+    "keywords": [
+      "lvad transport",
+      "lvad off unit",
+      "extra batteries lvad",
+      "extra system controller transport",
+      "lvad transport equipment"
+    ],
+    "instruction": "For all transport events (LVAD) off the unit, take two extra batteries and an extra System Controller.",
+    "policy": "SHC P&P 34715.01 – Ventricular Assist Device: Driveline Site Care"
+  },
+  {
+    "category": "LVAD (Left Ventricular Assist Device)",
+    "id": "LVAD_DOC_11",
+    "keywords": [
+      "lvad mechanical circulatory support",
+      "lvad mcs team",
+      "lvad consult",
+      "858-939-3863",
+      "mechanical circulatory support team"
+    ],
+    "instruction": "Consult with Mechanical Circulatory Support team as needed 858-939-3863.",
+    "policy": "SHC P&P 34715.01 – Ventricular Assist Device: Driveline Site Care"
+  },
+  {
+    "category": "Impella",
+    "id": "IMPELLA_DOC_03",
+    "keywords": [
+      "impella bedrest",
+      "impella hob < 30",
+      "impella affected leg immobilized",
+      "impella reverse trendelenburg",
+      "impella vap prevention",
+      "femorally placed impella"
+    ],
+    "instruction": "Patients with femorally placed Impella are on complete bedrest with HOB < 30 degrees, affected leg immobilized. May use reverse Trendelenburg position to elevate HOB for VAP prevention.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Impella",
+    "id": "IMPELLA_DOC_04",
+    "keywords": [
+      "impella dextrose bag",
+      "change dextrose q24h",
+      "impella purge solution bag q24h"
+    ],
+    "instruction": "Change Dextrose containing purge solution bag q24h.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Impella",
+    "id": "IMPELLA_DOC_05",
+    "keywords": [
+      "impella purge cassette",
+      "change purge cassette q5days",
+      "impella cassette change",
+      "prevent catheter damage"
+    ],
+    "instruction": "Change purge cassette q5days (must be done in less than 2 minutes to prevent damage to the catheter).",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Impella",
+    "id": "IMPELLA_DOC_06",
+    "keywords": [
+      "impella pump placement",
+      "correct pump placement impella",
+      "impella repositioning",
+      "decrease p level to p2",
+      "impella performance level"
+    ],
+    "instruction": "Monitor: Correct pump placement. If pump repositioning is required, decrease P (performance) level to P2 before MD repositions.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Impella",
+    "id": "IMPELLA_DOC_07",
+    "keywords": [
+      "impella purge pressure",
+      "monitor purge pressure impella"
+    ],
+    "instruction": "For Impella, monitor purge pressure.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Impella",
+    "id": "IMPELLA_DOC_08",
+    "keywords": [
+      "impella flow",
+      "impella flow < 0.5",
+      "do not reduce flow impella",
+      "minimum flow impella"
+    ],
+    "instruction": "For Impella, monitor flow. Do not reduce flow < 0.5 L/min.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Impella",
+    "id": "IMPELLA_DOC_09",
+    "keywords": [
+      "impella flow correlate p level",
+      "impella suction",
+      "suspect suction impella",
+      "decrease p level impella",
+      "check position impella",
+      "fluid status impella"
+    ],
+    "instruction": "For Impella, monitor flow. Flow should correlate with P level. If not, suspect suction. If suction suspected, decrease P level by 1 - 2, check position, and assess patient's fluid status.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Impella",
+    "id": "IMPELLA_DOC_10",
+    "keywords": [
+      "impella site",
+      "impella insertion site",
+      "impella infection",
+      "impella bleeding site",
+      "impella catheter insertion angle",
+      "impella dressing changes"
+    ],
+    "instruction": "Monitor Impella site for signs or symptoms of infection or bleeding. Maintain catheter insertion angle with all dressing changes.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Impella",
+    "id": "IMPELLA_DOC_11",
+    "keywords": [
+      "impella backup controller",
+      "maintain backup controller impella",
+      "backup controller plugged in"
+    ],
+    "instruction": "Maintain backup Impella AIC controller plugged in on unit.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Impella",
+    "id": "IMPELLA_DOC_12",
+    "keywords": [
+      "impella weaning",
+      "wean impella",
+      "impella wean protocol",
+      "wean p level impella",
+      "decrease to p1 impella",
+      "decrease to p0 impella"
+    ],
+    "instruction": "Weaning of Impella support is coordinated with physician. Wean P level by 2 q2 - 3 hrs. Decrease to P1 and MD will pull catheter into the aorta. Decrease to P0 as MD removes catheter.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Impella",
+    "id": "IMPELLA_DOC_13",
+    "keywords": [
+      "impella removal",
+      "remove impella"
+    ],
+    "instruction": "Decrease P level to 0 for removal.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Impella",
+    "id": "IMPELLA_DOC_14",
+    "keywords": [
+      "impella 5.5 dressing",
+      "impella initial dressing",
+      "centurion driveline securement",
+      "impella biopatch",
+      "impella dressing change initiated in or"
+    ],
+    "instruction": "Impella 5.5: Initial dressing change will be removed and using the Centurion Driveline Securement System with large Biopatch, the dressing will be changed unless initiated in OR.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Impella",
+    "id": "IMPELLA_DOC_15",
+    "keywords": [
+      "impella bleeding at site",
+      "impella suture placement",
+      "absorbable hemostat impella",
+      "surgiseal impella",
+      "impella oozing"
+    ],
+    "instruction": "Impella 5.5: If bleeding noted at site, MD will be notified to address additional suture placement. If not appropriate, absorbable hemostat material (i.e., Surgiseal) may be placed for oozing.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Impella",
+    "id": "IMPELLA_DOC_16",
+    "keywords": [
+      "impella anchoring dressing",
+      "impella securement catheter",
+      "anchoring device impella"
+    ],
+    "instruction": "Impella 5.5: After anchoring dressing is placed at site, additional securement of the catheter will be done with anchoring device.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Impella",
+    "id": "IMPELLA_DOC_17",
+    "keywords": [
+      "impella dressing change weekly",
+      "impella wet dressing",
+      "impella loose dressing",
+      "impella soiled dressing"
+    ],
+    "instruction": "Impella 5.5: Dressing will be changed weekly and when wet, loose, or soiled.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Impella",
+    "id": "IMPELLA_DOC_18",
+    "keywords": [
+      "impella mobility guideline axillary",
+      "impella upper extremity not above 90 degrees",
+      "impella tuohy borst valve",
+      "impella device secured",
+      "impella catheter securement anchor"
+    ],
+    "instruction": "Axillary placed Impella 5.5: Mobility guideline with axillary placement: Affected upper extremity should not be raised above 90 degrees. Prior to patient mobilizing, ensure device is secured, Tuohy borst valve is screwed down and catheter has securement anchor.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Impella",
+    "id": "IMPELLA_DOC_19",
+    "keywords": [
+      "impella insertion markers",
+      "impella out of bed",
+      "impella check markers ambulation",
+      "impella waveform changed",
+      "impella echo placement confirmation"
+    ],
+    "instruction": "Axillary placed Impella 5.5: If patient getting out of bed, check insertion markers before and after ambulation. If measurement and waveform has changed after ambulation, notify MD and obtain echo for placement confirmation.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology - Temporary Pacemaker",
+    "id": "CARDIACTPM_DOC_01",
+    "keywords": [
+      "transvenous pacemaker",
+      "temporary pacemaker site",
+      "pacemaker centimeter marking",
+      "pacemaker introducer exit site",
+      "assess pacemaker site q shift"
+    ],
+    "instruction": "Transvenous pacemaker: Assess and document site and external centimeter marking of the pacemaker at the introducer exit site q shift and PRN.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology - Temporary Pacemaker",
+    "id": "CARDIACTPM_DOC_02",
+    "keywords": [
+      "pacemaker side port",
+      "pacemaker introducer sheath",
+      "iv infusions pacemaker",
+      "blood draws pacemaker",
+      "pacemaker patency"
+    ],
+    "instruction": "Transvenous pacemaker: Do not use side port or introducer sheath for IV infusions or blood draws. Infusions may be allowed for emergencies as long as patency is established.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology - Temporary Pacemaker",
+    "id": "CARDIACTPM_DOC_03",
+    "keywords": [
+      "pacemaker removal",
+      "remove temporary pacemaker",
+      "who removes pacemaker",
+      "nurse practitioner pacemaker removal"
+    ],
+    "instruction": "Transvenous pacemaker: Removal should be done by physician, physician assistant, or nurse practitioner.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology - Temporary Pacemaker",
+    "id": "CARDIACTPM_DOC_04",
+    "keywords": [
+      "epicardial wires",
+      "pacing wires",
+      "epicardial pacing wires insertion site",
+      "assess pacing wires q shift"
+    ],
+    "instruction": "Epicardial Wires: Assess and document pacing wires and insertion site every shift.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology - Temporary Pacemaker",
+    "id": "CARDIACTPM_DOC_05",
+    "keywords": [
+      "epicardial wires dressing",
+      "pacing wires dressing daily",
+      "change epicardial dressing prn"
+    ],
+    "instruction": "Epicardial Wires: Change and document dressing daily and PRN.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology - Temporary Pacemaker",
+    "id": "CARDIACTPM_DOC_06",
+    "keywords": [
+      "pacing wires removal",
+      "remove pacing wires",
+      "vital signs pre-removal pacing wires",
+      "bp hr o2 sat pre-removal",
+      "bedrest 1 hour pacing wire removal",
+      "arrhythmia assessment pacing wire",
+      "cardiac tamponade pacing wire"
+    ],
+    "instruction": "Removal of pacing wires: vital signs (BP, HR, O2 sat) and heart sounds assessed and documented pre-removal then every 15 minutes x 1hr then routine. Patient will remain on bedrest for 1 hour. Assess for arrhythmia and signs of cardiac tamponade.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology - Temporary Pacemaker",
+    "id": "CARDIACTPM_DOC_07",
+    "keywords": [
+      "pacemaker initiation documentation",
+      "pacemaker therapy initiation",
+      "document pacemaker parameters",
+      "pacemaker vs ecg hemodynamic",
+      "events warranting therapy pacemaker"
+    ],
+    "instruction": "Document date and time of initiation of pacemaker therapy, events warranting therapy, VS, ECG, and hemodynamic parameters prior to initiating therapy and patient response.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology - Temporary Pacemaker",
+    "id": "CARDIACTPM_DOC_08",
+    "keywords": [
+      "assess pacemaker every shift",
+      "pacemaker initiation assessment",
+      "epicardial wire location",
+      "pacemaker type",
+      "percent pacing",
+      "pacemaker settings ma mv mode rate",
+      "patient family education pacemaker"
+    ],
+    "instruction": "Assess and document every shift and with initiation: epicardial wire location/dressing, pacemaker type, Percent pacing, all pacemaker settings (mA, mV, mode, and rate), patient and family education.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology - Temporary Pacemaker",
+    "id": "CARDIACTPM_DOC_09",
+    "keywords": [
+      "underlying rhythms",
+      "assess underlying rhythms",
+      "pacemaker rate decrease",
+      "pausing temporary pacemaker",
+      "underlying rhythm every shift icu"
+    ],
+    "instruction": "Underlying Rhythms: Assess and document as needed or as determined by individual patient status (every shift in the ICU). Assessed by decreasing pacemaker rate or pausing the temporary pacemaker.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology - Temporary Pacemaker",
+    "id": "CARDIACTPM_DOC_10",
+    "keywords": [
+      "pacemaker thresholds",
+      "stimulation thresholds",
+      "determine thresholds insertion",
+      "thresholds every shift icu",
+      "sensitivity threshold prn"
+    ],
+    "instruction": "Determine stimulation thresholds and document at the time of insertion and as determined by individual patient status (every shift in the ICU). Determine sensitivity threshold PRN only.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology - Temporary Pacemaker",
+    "id": "CARDIACTPM_DOC_11",
+    "keywords": [
+      "wear gloves pacing wires",
+      "gloves contacting pacing wires",
+      "pacemaker safety"
+    ],
+    "instruction": "Safety considerations: Wear gloves whenever contacting the pacing wires.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology - Temporary Pacemaker",
+    "id": "CARDIACTPM_DOC_12",
+    "keywords": [
+      "pulse generator locked",
+      "pacemaker out of reach",
+      "pulse generator kept out of reach"
+    ],
+    "instruction": "Safety considerations: The pulse generator will be locked and kept out of patient's immediate reach.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology - Temporary Pacemaker",
+    "id": "CARDIACTPM_DOC_13",
+    "keywords": [
+      "pacemaker connections secure",
+      "ensure connections secure q shift prn",
+      "pacing wire connections"
+    ],
+    "instruction": "Safety considerations: Ensure connections are secure every shift and PRN.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology - Temporary Pacemaker",
+    "id": "CARDIACTPM_DOC_14",
+    "keywords": [
+      "pacemaker battery level"
+    ],
+    "instruction": "For temporary pacemeker, check battery level and maintain extra batteries at bedside",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology - Temporary Pacemaker",
+    "id": "CARDIACTPM_DOC_15",
+    "keywords": [
+      "pacemarker standby"
+    ],
+    "instruction": "Standby definition – Pacemaker is connected to the patient and OFF. ",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology - Temporary Pacemaker",
+    "id": "CARDIACTPM_DOC_16",
+    "keywords": [
+      "pacemaker backup"
+    ],
+    "instruction": "Backup definition-pacemaker is on, connected to the patient, and set to a rate lower than the patient’s native rate.",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Cardiology - Temporary Pacemaker",
+    "id": "CARDIACTPM_DOC_17",
+    "keywords": [
+      "pacemaker wires"
+    ],
+    "instruction": "Insulated and isolated pacing wires using nonconductive material, applied for easy accessibility. Label dressing with number and type of wires. ",
+    "policy": "AACN Procedure Manual"
+  },
+  {
+    "category": "Catheter-Directed Thrombolysis Therapy",
+    "id": "CATHDIRECTEDTHROMBOLYSIS_DOC_1",
+    "keywords": [
+      "cdt vital signs",
+      "catheter-directed thrombolysis vital signs",
+      "groin puncture site assessment",
+      "neurovascular status cdt",
+      "q15min x4 cdt",
+      "q30 min x4 cdt",
+      "q2h cdt"
+    ],
+    "instruction": "Assess vital signs, groin/puncture sites and neurovascular status immediately upon arrival from procedural area, then Q15min x4, Q30 min x4, then Q2h.",
+    "policy": "Clinical Skills: Catheter-Directed Thrombolysis"
+  },
+  {
+    "category": "Catheter-Directed Thrombolysis Therapy",
+    "id": "CATHDIRECTEDTHROMBOLYSIS_DOC_2",
+    "keywords": [
+      "cdt neurological checks",
+      "neuro checks post cdt",
+      "neurological checks q15min x4",
+      "neurological checks q30min x4",
+      "neurological checks q2h"
+    ],
+    "instruction": "Perform neurological checks immediately upon arrival from procedural area, then Q15min x4, Q30min x4, then Q2h.",
+    "policy": "Clinical Skills: Catheter-Directed Thrombolysis"
+  },
+  {
+    "category": "Catheter-Directed Thrombolysis Therapy",
+    "id": "CATHDIRECTEDTHROMBOLYSIS_DOC_3",
+    "keywords": [
+      "cdt circumference measurement",
+      "measure circumference q2h",
+      "extremity circumference cdt",
+      "mark measurement lines cdt"
+    ],
+    "instruction": "Measure circumference of affected extremities Q2h and mark measurement lines if applicable.",
+    "policy": "Clinical Skills: Catheter-Directed Thrombolysis"
+  },
+  {
+    "category": "Catheter-Directed Thrombolysis Therapy",
+    "id": "CATHDIRECTEDTHROMBOLYSIS_DOC_4",
+    "keywords": [
+      "cdt bedrest",
+      "hob no more than 15 degrees",
+      "complete bedrest cdt",
+      "hob < 15 degrees cdt"
+    ],
+    "instruction": "Maintain complete bedrest and HOB no more than 15 degrees.",
+    "policy": "Clinical Skills: Catheter-Directed Thrombolysis"
+  },
+  {
+    "category": "Catheter-Directed Thrombolysis Therapy",
+    "id": "CATHDIRECTEDTHROMBOLYSIS_DOC_5",
+    "keywords": [
+      "cdt skin breakdown prevention",
+      "skin breakdown prevention measures cdt"
+    ],
+    "instruction": "Perform appropriate skin breakdown prevention measures.",
+    "policy": "Clinical Skills: Catheter-Directed Thrombolysis"
+  },
+  {
+    "category": "Catheter-Directed Thrombolysis Therapy",
+    "id": "CATHDIRECTEDTHROMBOLYSIS_DOC_6",
+    "keywords": [
+      "cdt bleeding puncture site",
+      "manual pressure puncture site",
+      "bleeding at puncture site cdt",
+      "notify provider bleeding cdt"
+    ],
+    "instruction": "Apply manual pressure if bleeding develops at puncture site and notify appropriate provider.",
+    "policy": "Clinical Skills: Catheter-Directed Thrombolysis"
+  },
+  {
+    "category": "Catheter-Directed Thrombolysis Therapy",
+    "id": "CATHDIRECTEDTHROMBOLYSIS_DOC_7",
+    "keywords": [
+      "cdt puncture site dressing",
+      "change puncture site dressing",
+      "reinforce dressing cdt"
+    ],
+    "instruction": "Change or reinforce puncture site dressings as necessary.",
+    "policy": "Clinical Skills: Catheter-Directed Thrombolysis"
+  },
+  {
+    "category": "Catheter-Directed Thrombolysis Therapy",
+    "id": "CATHDIRECTEDTHROMBOLYSIS_DOC_8",
+    "keywords": [
+      "cdt notify provider",
+      "sbp < 100 cdt",
+      "sbp > 180 cdt",
+      "dbp > 100 cdt",
+      "temp > 38.3c cdt",
+      "temp 101f cdt",
+      "hgb falls 2 grams",
+      "fibrinogen < 100mg/dl",
+      "pulses changes cdt",
+      "degree of pain cdt",
+      "sensory function changes cdt",
+      "firmness cdt",
+      "limb circumference changes cdt",
+      "neurological changes cdt",
+      "bleeding cdt"
+    ],
+    "instruction": "Notify appropriate provider for the following: SBP <100 or >180, DBP >100, Temp >38.3C (101F), If Hgb falls by 2 grams, If Fibrinogen <100mg/dL, Any changes in pulses, degree of pain, monitor/sensory function, increased firmness and/or limb circumference f. ANY neurological changes, Any bleeding.",
+    "policy": "Clinical Skills: Catheter-Directed Thrombolysis"
+  },
+  {
+    "category": "Catheter-Directed Thrombolysis Therapy",
+    "id": "CATHDIRECTEDTHROMBOLYSIS_DOC_9",
+    "keywords": [
+      "no im injections cdt",
+      "no suppositories cdt",
+      "no blade shaving cdt"
+    ],
+    "instruction": "No IM injections, suppositories, or blade shaving.",
+    "policy": "Clinical Skills: Catheter-Directed Thrombolysis"
+  },
+  {
+    "category": "Catheter-Directed Thrombolysis Therapy",
+    "id": "CATHDIRECTEDTHROMBOLYSIS_DOC_10",
+    "keywords": [
+      "cdt monitor labs",
+      "cbc cdt",
+      "pt cdt",
+      "ptt cdt",
+      "inr cdt",
+      "fibrinogen cdt",
+      "labs as ordered cdt"
+    ],
+    "instruction": "Monitor labs (e.g., CBC, PT, PTT, INR, Fibrinogen, etc...) as ordered.",
+    "policy": "Clinical Skills: Catheter-Directed Thrombolysis"
+  },
+  {
+    "category": "Catheter-Directed Thrombolysis Therapy",
+    "id": "CATHDIRECTEDTHROMBOLYSIS_DOC_11",
+    "keywords": [
+      "ultrasound-assisted device cdt",
+      "ekos cdt",
+      "device plugged in charging",
+      "ultrasound device charging"
+    ],
+    "instruction": "Ensure that ultrasound-assisted device is plugged in and charging at all times (if in use).",
+    "policy": "Clinical Skills: Catheter-Directed Thrombolysis"
+  },
+  {
+    "category": "Catheter-Directed Thrombolysis Therapy",
+    "id": "CATHDIRECTEDTHROMBOLYSIS_DOC_12",
+    "keywords": [
+      "cdt caregiver handover",
+      "line reconciliation cdt",
+      "neuro/neurovascular joint assessment",
+      "change of shift handover cdt"
+    ],
+    "instruction": "Change of caregiver handover to include line reconciliation and neuro/neurovascular joint assessment.",
+    "policy": "Clinical Skills: Catheter-Directed Thrombolysis"
+  },
+  {
+    "category": "Catheter-Directed Thrombolysis Therapy",
+    "id": "CATHDIRECTEDTHROMBOLYSIS_DOC_13",
+    "keywords": [
+      "do not piggyback heparin line",
+      "do not piggyback tpa line",
+      "no piggyback cdt lines"
+    ],
+    "instruction": "Medication: DO NOT piggyback any drip or medication into Heparin or TPA lines.",
+    "policy": "Clinical Skills: Catheter-Directed Thrombolysis"
+  },
+  {
+    "category": "Catheter-Directed Thrombolysis Therapy",
+    "id": "CATHDIRECTEDTHROMBOLYSIS_DOC_14",
+    "keywords": [
+      "dedicated iv pole heparin",
+      "dedicated iv pole tpa",
+      "heparin tpa dedicated pole"
+    ],
+    "instruction": "Medication: Use dedicated IV pole for Heparin and TPA infusions.",
+    "policy": "Clinical Skills: Catheter-Directed Thrombolysis"
+  },
+  {
+    "category": "Catheter-Directed Thrombolysis Therapy",
+    "id": "CATHDIRECTEDTHROMBOLYSIS_DOC_15",
+    "keywords": [
+      "anticoagulant infusion line removed",
+      "collaborate provider pharmacy cdt",
+      "fluid rate through catheter cdt"
+    ],
+    "instruction": "Medication: If anticoagulant infusion completed before line removed collaborate with provider and pharmacy for appropriate fluid and rate to continue through catheter.",
+    "policy": "Clinical Skills: Catheter-Directed Thrombolysis"
+  },
+  {
+    "category": "Catheter-Directed Thrombolysis Therapy",
+    "id": "CATHDIRECTEDTHROMBOLYSIS_DOC_16",
+    "keywords": [
+      "discontinue im injections cdt",
+      "discontinue suppositories cdt",
+      "discontinue aspirin cdt",
+      "discontinue antiplatelets cdt",
+      "discontinue clopidogrel",
+      "discontinue plavix",
+      "discontinue prasugrel",
+      "discontinue effient",
+      "discontinue warfarin",
+      "discontinue coumadin",
+      "discontinue dabigatran",
+      "discontinue pradaxa",
+      "discontinue rivaroxaban",
+      "discontinue xarelto",
+      "discontinue apixaban",
+      "discontinue eliquis",
+      "discontinue nsaids"
+    ],
+    "instruction": "Medication: Discontinue IM injections, suppositories, aspirin containing meds, antiplatelets [e.g., clopidogrel (Plavix), prasugrel (Effient)], anticoagulants [e.g., warfarin (Coumadin), dabigatran (Pradaxa), rivaroxaban (Xarelto), apixaban (Eliquis)], and all NSAIDS.",
+    "policy": "Clinical Skills: Catheter-Directed Thrombolysis"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_6",
+    "keywords": [
+      "ett repositioning",
+      "reposition ett",
+      "ett secured q12-24h",
+      "ett secured prn",
+      "endotracheal tube repositioning",
+      "collaborate rcp repositioning"
+    ],
+    "instruction": "ETT will be repositioned and secured with an approved device q12 - 24h and PRN (or per facility standard).",
+    "policy": "SHC P&P 44220.99 – Tube Cuff: Care of the Endotracheal/Tracheostomy, SCVMC Ventilator Management and Patient Assessment Department Guidelines, AACN Procedure Manual"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_7",
+    "keywords": [
+      "ett position",
+      "level at lips/teeth",
+      "position of ett maintained",
+      "document ett position q shift",
+      "ett at teeth",
+      "ett at lips"
+    ],
+    "instruction": "Position of ETT (e.g. level at lips/teeth) will be maintained at all times and documented q shift.",
+    "policy": "SHC P&P 44220.99 – Tube Cuff: Care of the Endotracheal/Tracheostomy, SCVMC Ventilator Management and Patient Assessment Department Guidelines, AACN Procedure Manual"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_8",
+    "keywords": [
+      "ett repositioning documentation",
+      "document change of position ett",
+      "condition of surrounding skin ett",
+      "location of tube after repositioning",
+      "ett complications"
+    ],
+    "instruction": "The following areas will be documented with each change of position: Condition of surrounding skin, Location of tube after repositioning, Any complications.",
+    "policy": "SHC P&P 44220.99 – Tube Cuff: Care of the Endotracheal/Tracheostomy, SCVMC Ventilator Management and Patient Assessment Department Guidelines, AACN Procedure Manual"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_9",
+    "keywords": [
+      "cuff pressure measurement",
+      "check cuff pressure q shift",
+      "check cuff pressure prn",
+      "ett cuff pressure"
+    ],
+    "instruction": "Cuff pressure measurement will be checked q shift and PRN.",
+    "policy": "SHC P&P 44220.99 – Tube Cuff: Care of the Endotracheal/Tracheostomy, SCVMC Ventilator Management and Patient Assessment Department Guidelines, AACN Procedure Manual"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_10",
+    "keywords": [
+      "critical airway",
+      "patient with critical airway",
+      "sign posted above hob",
+      "critical airway sign",
+      "communicate risk shift handoff"
+    ],
+    "instruction": "Patient with a 'critical' airway: will be identified with a sign posted above the HOB and the risk will be communicated during shift handoff.",
+    "policy": "SHC P&P 44220.99 – Tube Cuff: Care of the Endotracheal/Tracheostomy, SCVMC Ventilator Management and Patient Assessment Department Guidelines, AACN Procedure Manual"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_11",
+    "keywords": [
+      "sat",
+      "sedation awakening trial",
+      "sbt",
+      "spontaneous breathing trial",
+      "sat twice daily",
+      "sat contraindications"
+    ],
+    "instruction": "A Sedation Awakening Trial (SAT) will be performed twice daily on all mechanically ventilated patients unless contraindicated.",
+    "policy": "SHC P&P 44239.99 – Weaning (Liberation) from Mechanical Ventilation, San Diego Patient Safety Council: ICU Sedation Toolkit (2009), AACN Procedure Manual"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_12",
+    "keywords": [
+      "sat contraindications",
+      "neuromuscular blocking agent sat",
+      "continuous infusion seizures sat",
+      "alcohol withdrawal sat",
+      "increased icp sat",
+      "open chest sat",
+      "myocardial ischemia sat"
+    ],
+    "instruction": "SAT contraindications: On a neuromuscular blocking agent, On a continuous infusion for controlling active seizures, treating alcohol withdrawal, or increased ICP, Open chest, Documented myocardial ischemia within the last 24 hours.",
+    "policy": "SHC P&P 44239.99 – Weaning (Liberation) from Mechanical Ventilation, San Diego Patient Safety Council: ICU Sedation Toolkit (2009), AACN Procedure Manual"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_13",
+    "keywords": [
+      "rass goal",
+      "richmond agitation sedation scale",
+      "rass 0 to -1",
+      "reduce sedation goal",
+      "turn off sedative infusion",
+      "wean narcotic infusion 50-100%"
+    ],
+    "instruction": "Goal is to reduce the use of sedation and/or analgesia until the Richmond Agitation - Sedation Scale (RASS) is 0 to -1 or until the patient is off continuous infusions of sedatives and/or opiates/analgesics: Turn off the sedative infusion first, Wean narcotic infusion dose by 50 - 100% q30 min, If patient complains or demonstrates signs/symptoms of pain while the continuous narcotic infusion is shut off, the RN will administer bolus doses of opiates as needed.",
+    "policy": "SHC P&P 44239.99 – Weaning (Liberation) from Mechanical Ventilation, San Diego Patient Safety Council: ICU Sedation Toolkit (2009), AACN Procedure Manual"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_14",
+    "keywords": [
+      "sat vital signs",
+      "assess q30 min sat",
+      "stop sat",
+      "sao2 < 88%",
+      "rr > 35 breaths/min",
+      "new acute cardiac dysrhythmia",
+      "stop sat 5 minutes"
+    ],
+    "instruction": "Vital Signs: Assess q30 min; Stop SAT if any of the following are present for 5 minutes or longer: SaO2 < 88%, RR > 35 breaths/min, New acute cardiac dysrhythmia.",
+    "policy": "SHC P&P 44239.99 – Weaning (Liberation) from Mechanical Ventilation, San Diego Patient Safety Council: ICU Sedation Toolkit (2009), AACN Procedure Manual"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_15",
+    "keywords": [
+      "heart rate increase 20 bpm sat",
+      "accessory muscles sat",
+      "systolic bp 20% change sat",
+      "stop sat heart rate",
+      "stop sat accessory muscles",
+      "stop sat blood pressure"
+    ],
+    "instruction": "Stop SAT if any of the following are present for 5 minutes or longer: Heart rate increase of 20 or more bpm, Use of accessory muscles, Systolic BP of 20% change from baseline.",
+    "policy": "SHC P&P 44239.99 – Weaning (Liberation) from Mechanical Ventilation, San Diego Patient Safety Council: ICU Sedation Toolkit (2009), AACN Procedure Manual"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_16",
+    "keywords": [
+      "patient does not tolerate sat",
+      "restart opiate/analgesic infusion 50%",
+      "titrate to rass 0 to -1",
+      "intermittent boluses sat",
+      "do not restart sedative"
+    ],
+    "instruction": "If the patient does not tolerate due to change in vital signs: Restart opiate/analgesic infusion at 50% of the prior dose, Titrate to RASS of 0 to -1 using intermittent boluses, Do not restart sedative unless absolutely necessary (if absolutely necessary, restart at 50% of prior dose).",
+    "policy": "SHC P&P 44239.99 – Weaning (Liberation) from Mechanical Ventilation, San Diego Patient Safety Council: ICU Sedation Toolkit (2009), AACN Procedure Manual"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_17",
+    "keywords": [
+      "assess pain delirium patient awakens",
+      "cam-icu",
+      "pain assessment awake patient",
+      "delirium assessment awake patient"
+    ],
+    "instruction": "Assess for presence of pain or delirium when patient awakens using the CAM-ICU.",
+    "policy": "SHC P&P 44239.99 – Weaning (Liberation) from Mechanical Ventilation, San Diego Patient Safety Council: ICU Sedation Toolkit (2009), AACN Procedure Manual"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_18",
+    "keywords": [
+      "collaborate rcp sbt",
+      "screen for sbt",
+      "begin sbt",
+      "spontaneous breathing trial rcp"
+    ],
+    "instruction": "Collaborate with RCP to screen for and begin Spontaneous Breathing Trial (SBT).",
+    "policy": "SHC P&P 44239.99 – Weaning (Liberation) from Mechanical Ventilation, San Diego Patient Safety Council: ICU Sedation Toolkit (2009), AACN Procedure Manual"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_19",
+    "keywords": [
+      "patient fails sbt",
+      "return to previous mode ventilation",
+      "sbt failure",
+      "document reason sbt failure",
+      "ensure patient safety sbt"
+    ],
+    "instruction": "If the patient fails SBT, patient will be returned to the previous mode of ventilation with settings to ensure patient safety and comfort. Document the reason(s) for failure of SBT.",
+    "policy": "SHC P&P 44239.99 – Weaning (Liberation) from Mechanical Ventilation, San Diego Patient Safety Council: ICU Sedation Toolkit (2009), AACN Procedure Manual"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_20",
+    "keywords": [
+      "extubation collaborative process",
+      "extubation rn rt physician",
+      "decannulation collaborative process"
+    ],
+    "instruction": "Extubation is a collaborative process between the RN, Respiratory Therapist, and Physician.",
+    "policy": "SHC P&P 44239.99 – Weaning (Liberation) from Mechanical Ventilation, AACN Procedure Manual"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_21",
+    "keywords": [
+      "weaning parameters",
+      "weaning parameters assessed documented",
+      "respiratory therapy weaning parameters",
+      "communicate weaning parameters rn physician"
+    ],
+    "instruction": "Weaning parameters will be assessed and documented by Respiratory Therapy and will be communicated to RN and physician if required.",
+    "policy": "SHC P&P 44239.99 – Weaning (Liberation) from Mechanical Ventilation, AACN Procedure Manual"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_22",
+    "keywords": [
+      "symptoms independent breathing",
+      "adequate ventilation oxygenation documented",
+      "baseline q15 min sbt",
+      "post extubation documentation",
+      "spo2 fio2",
+      "rr hr bp",
+      "wob accessory muscles",
+      "increased agitation anxiety"
+    ],
+    "instruction": "Symptoms associated with independent breathing and adequate ventilation and oxygenation will be documented: baseline, q15 min, at conclusion of Spontaneous Breathing Trial (SBT) and post extubation/decannulation: SpO2 and FiO2, RR, HR, BP, Increase WOB (Accessory Muscles), Increased agitation and anxiety.",
+    "policy": "SHC P&P 44239.99 – Weaning (Liberation) from Mechanical Ventilation, AACN Procedure Manual"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_23",
+    "keywords": [
+      "patient fails sbt return previous mode",
+      "sbt failure return ventilation",
+      "ensure patient safety comfort sbt"
+    ],
+    "instruction": "If the patient fails SBT, return the patient to the previous mode of ventilation with settings to ensure patient safety and comfort.",
+    "policy": "SHC P&P 44239.99 – Weaning (Liberation) from Mechanical Ventilation, AACN Procedure Manual"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_24",
+    "keywords": [
+      "physician order extubation",
+      "physician order decannulation",
+      "obtain order prior extubation"
+    ],
+    "instruction": "Obtain Physician order prior to extubation/decannulation procedure.",
+    "policy": "SHC P&P 44239.99 – Weaning (Liberation) from Mechanical Ventilation, AACN Procedure Manual"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_25",
+    "keywords": [
+      "extubation education",
+      "patient family education extubation",
+      "effective cough extubation",
+      "patent airway extubation",
+      "maintain patent airway"
+    ],
+    "instruction": "Prior to extubation, education will be provided to the patient/family. The patient must have an effective cough and able to maintain a patent airway for extubation to occur.",
+    "policy": "SHC P&P 44239.99 – Weaning (Liberation) from Mechanical Ventilation, AACN Procedure Manual"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_26",
+    "keywords": [
+      "post extubation monitoring",
+      "post decannulation monitoring",
+      "laryngospasm post extubation",
+      "bronchospasm post extubation"
+    ],
+    "instruction": "Post Extubation/Decannulation Monitoring: Assess the patient for evidence of laryngospasm or bronchospasm.",
+    "policy": "SHC P&P 44239.99 – Weaning (Liberation) from Mechanical Ventilation, AACN Procedure Manual"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_27",
+    "keywords": [
+      "assess respiratory status post extubation",
+      "continue assess respiratory status",
+      "respiratory status individual patient"
+    ],
+    "instruction": "Post Extubation/Decannulation Monitoring: Continue to assess patient's respiratory status as determined by the individual patient status or need.",
+    "policy": "SHC P&P 44239.99 – Weaning (Liberation) from Mechanical Ventilation, AACN Procedure Manual"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_28",
+    "keywords": [
+      "report changes patient status post extubation",
+      "hr rr bp increase > 10% baseline",
+      "spo2 < 90%",
+      "stridor post extubation",
+      "breathing difficulty post extubation",
+      "chest-abdominal asynchrony",
+      "unable manage secretions",
+      "ineffective cough post extubation"
+    ],
+    "instruction": "Post Extubation/Decannulation Monitoring: Maintain effective communication and report changes in patient status or unexpected outcomes: HR, RR and BP increase of greater than 10% of baseline, SpO2 < 90%, Stridor, breathing difficulty, chest-abdominal asynchrony, Patient unable to manage secretions, or ineffective cough.",
+    "policy": "SHC P&P 44239.99 – Weaning (Liberation) from Mechanical Ventilation, AACN Procedure Manual"
+  },
+  {
+    "category": "Respiratory",
+    "id": "RESPIRATORY_DOC_29",
+    "keywords": [
+      "assess swallowing ability post extubation",
+      "swallowing problems post extubation",
+      "difficulty swallowing choking liquids",
+      "notify physician swallowing difficulty"
+    ],
+    "instruction": "Post Extubation/Decannulation Monitoring: Assess swallowing ability for potential problems; notify physician if pt has difficulty swallowing, choking on liquids etc.",
+    "policy": "SHC P&P 44239.99 – Weaning (Liberation) from Mechanical Ventilation, AACN Procedure Manual"
+  },
+  {
+    "category": "Metabolic",
+    "id": "METABOLIC_DOC_01",
+    "keywords": [
+      "initial icu bg < 125",
+      "bg < 125 mg/dl",
+      "no additional screening diabetes",
+      "no action unless serum glucose elevations",
+      "admission transfer bg < 125"
+    ],
+    "instruction": "Upon admission or transfer into the ICU - Initial ICU BG < 125 mg/dL: No additional screening for patients with no history of diabetes. RN Action: No action needed unless serum glucose elevations in routine chemistry panel.",
+    "policy": "SHC Diabetes Steering Committee"
+  },
+  {
+    "category": "Metabolic",
+    "id": "METABOLIC_DOC_02",
+    "keywords": [
+      "bg 125-180 mg/dl",
+      "drops to less than 125 mg/dl",
+      "stop screening bg",
+      "no action unless serum glucose high",
+      "admission transfer bg 125-180"
+    ],
+    "instruction": "Upon admission or transfer into the ICU - Initial ICU BG 125-180 mg/dl: For All Subsequent Blood Glucose Checks - Drops to less than 125 mg/dL. RN Action: Stop screening and no action needed unless serum glucose high in routine chemistry panel.",
+    "policy": "SHC Diabetes Steering Committee"
+  },
+  {
+    "category": "Metabolic",
+    "id": "METABOLIC_DOC_03",
+    "keywords": [
+      "bg trending down > 125 mg/dl",
+      "trending down but remains > 125",
+      "continue screening q2h until < 125",
+      "admission transfer bg trending down"
+    ],
+    "instruction": "Upon admission or transfer into the ICU - Initial ICU BG 125-180 mg/dl: For All Subsequent Blood Glucose Checks - If trending down, but remains greater than 125 mg/dL. RN Action: Continue screening q2h until less than 125 mg/dL.",
+    "policy": "SHC Diabetes Steering Committee"
+  },
+  {
+    "category": "Metabolic",
+    "id": "METABOLIC_DOC_04",
+    "keywords": [
+      "bg trending up > 150 mg/dl",
+      "trending up to greater than 150",
+      "call physician insulin orders",
+      "continuous insulin infusion recommended",
+      "admission transfer bg trending up"
+    ],
+    "instruction": "Upon admission or transfer into the ICU - Initial ICU BG 125-180 mg/dl: For All Subsequent Blood Glucose Checks - If trending up to greater than 150 mg/dL. RN Action: Call Physician to request insulin orders, Continuous Insulin Infusion (CII) is recommended.",
+    "policy": "SHC Diabetes Steering Committee"
+  },
+  {
+    "category": "Metabolic",
+    "id": "METABOLIC_DOC_05",
+    "keywords": [
+      "bg greater than 180 mg/dl",
+      "bg > 180 mg/dl 125-180",
+      "call physician insulin orders cii",
+      "admission transfer bg > 180"
+    ],
+    "instruction": "Upon admission or transfer into the ICU - Initial ICU BG 125-180 mg/dl: For All Subsequent Blood Glucose Checks - If greater than 180 mg/dL. RN Action: Call Physician to request insulin orders, Continuous Insulin Infusion (CII) is recommended.",
+    "policy": "SHC Diabetes Steering Committee"
+  },
+  {
+    "category": "Metabolic",
+    "id": "METABOLIC_DOC_06",
+    "keywords": [
+      "initial icu bg ≥ 180 mg/dl",
+      "bg ≥ 180 mg/dl",
+      "call physician insulin orders",
+      "admission transfer bg ≥ 180"
+    ],
+    "instruction": "Upon admission or transfer into the ICU - Initial ICU BG ≥ 180 mg/dl: RN Action: Call Physician to request insulin orders, Continuous Insulin Infusion (CII) is recommended.",
+    "policy": "SHC Diabetes Steering Committee"
+  },
+  {
+    "category": "Metabolic",
+    "id": "METABOLIC_DOC_07",
+    "keywords": [
+      "enteral feedings poc bg > 180mg/dl",
+      "enteral feedings glucose > 180",
+      "do not increase goal rate bg > 180",
+      "two consecutive bg < 181mg/dl"
+    ],
+    "instruction": "Enteral Feedings: If POC BG >180mg/dL x 2 consecutively in 24 hours, do not increase to goal rate until two consecutive BG <181mg/dL in 24 hours.",
+    "policy": "SHC Diabetes Steering Committee"
+  },
+  {
+    "category": "Continuous Renal Replacement Therapy",
+    "id": "CRRT_DOC_01",
+    "keywords": [
+      "crrt documentation q1h",
+      "document arterial venous tmp pressures",
+      "tmp pressures",
+      "blood flow rate dialysate rate",
+      "ultrafiltration rate",
+      "ultrafiltration volume removed",
+      "crrt q1h documentation"
+    ],
+    "instruction": "Document q1h the arterial, venous, and transmembrane (TMP) pressures, blood flow rate, dialysate rate (if applicable), ultrafiltration rate, and ultrafiltration volume removed.",
+    "policy": "AACN Procedure Manual, SHC P&P 34706.01 – Renal Replacement Therapies, SHC P&P 34708.01 - Hemodialysis Catheter: Uncoupling & Maintenance, SHC P&P 30601.01 – Central Venous, Arterial, & Midline Catheter: Dressing Change, SHC P&P Priming NxStage 34305.99"
+  },
+  {
+    "category": "Continuous Renal Replacement Therapy",
+    "id": "CRRT_DOC_02",
+    "keywords": [
+      "hemodialysis shunts av fistulas",
+      "not recommended hemodialysis shunts",
+      "av fistulas emergency only",
+      "vascular injury risk dialysis",
+      "bleeding infection risk dialysis",
+      "alternative temporary access"
+    ],
+    "instruction": "Use of hemodialysis shunts or AV fistulas is not recommended for Renal Replacement Therapy access unless in an emergency because of risk of vascular injury, bleeding, and infection. Obtain alternative temporary access as soon as feasible.",
+    "policy": "AACN Procedure Manual, SHC P&P 34706.01 – Renal Replacement Therapies, SHC P&P 34708.01 - Hemodialysis Catheter: Uncoupling & Maintenance, SHC P&P 30601.01 – Central Venous, Arterial, & Midline Catheter: Dressing Change, SHC P&P Priming NxStage 34305.100"
+  },
+  {
+    "category": "Continuous Renal Replacement Therapy",
+    "id": "CRRT_DOC_03",
+    "keywords": [
+      "dialysis catheters only for dialysis",
+      "heparin plug removed first",
+      "dialysis catheters emergently"
+    ],
+    "instruction": "Dialysis catheters are used only for dialysis. If needed emergently, the Heparin plug will be removed first.",
+    "policy": "AACN Procedure Manual, SHC P&P 34706.01 – Renal Replacement Therapies, SHC P&P 34708.01 - Hemodialysis Catheter: Uncoupling & Maintenance, SHC P&P 30601.01 – Central Venous, Arterial, & Midline Catheter: Dressing Change, SHC P&P Priming NxStage 34305.101"
+  },
+  {
+    "category": "Continuous Renal Replacement Therapy",
+    "id": "CRRT_DOC_04",
+    "keywords": [
+      "do not use hemodialysis catheters lab draws",
+      "hemodialysis catheters routine lab draws",
+      "decreases catheter lifespan"
+    ],
+    "instruction": "Do not use hemodialysis catheters for routine lab draws unless specifically ordered (decreases catheter lifespan).",
+    "policy": "AACN Procedure Manual, SHC P&P 34706.01 – Renal Replacement Therapies, SHC P&P 34708.01 - Hemodialysis Catheter: Uncoupling & Maintenance, SHC P&P 30601.01 – Central Venous, Arterial, & Midline Catheter: Dressing Change, SHC P&P Priming NxStage 34305.102"
+  },
+  {
+    "category": "Continuous Renal Replacement Therapy",
+    "id": "CRRT_DOC_05",
+    "keywords": [
+      "citrate anticoagulation",
+      "tri-sodium citrate solution",
+      "calcium chloride solution",
+      "citrate infused via access line",
+      "calcium chloride central iv access",
+      "calcium chloride return line"
+    ],
+    "instruction": "When using Citrate anticoagulation, ensure that tri-sodium citrate solution is infused via access line into the circuit, and the calcium chloride solution is infused into another central IV access (preferred) or return line.",
+    "policy": "AACN Procedure Manual, SHC P&P 34706.01 – Renal Replacement Therapies, SHC P&P 34708.01 - Hemodialysis Catheter: Uncoupling & Maintenance, SHC P&P 30601.01 – Central Venous, Arterial, & Midline Catheter: Dressing Change, SHC P&P Priming NxStage 34305.103"
+  },
+  {
+    "category": "Continuous Renal Replacement Therapy",
+    "id": "CRRT_DOC_06",
+    "keywords": [
+      "dialysis circuit changed q72h",
+      "change dialysis circuit prn",
+      "crrt circuit change q72h"
+    ],
+    "instruction": "Dialysis circuit will be changed q72h and PRN.",
+    "policy": "AACN Procedure Manual, SHC P&P 34706.01 – Renal Replacement Therapies, SHC P&P 34708.01 - Hemodialysis Catheter: Uncoupling & Maintenance, SHC P&P 30601.01 – Central Venous, Arterial, & Midline Catheter: Dressing Change, SHC P&P Priming NxStage 34305.104"
+  },
+  {
+    "category": "Continuous Renal Replacement Therapy",
+    "id": "CRRT_DOC_07",
+    "keywords": [
+      "discontinuation renal replacement therapy",
+      "uncoupling catheter rrt",
+      "follow shc p&p 34708.01",
+      "uncoupling catheter crrt machine"
+    ],
+    "instruction": "Discontinuation of Renal Replacement Therapy: Follow SHC P&P 34708.01 when uncoupling catheter and Renal Replacement Therapy machine.",
+    "policy": "AACN Procedure Manual, SHC P&P 34706.01 – Renal Replacement Therapies, SHC P&P 34708.01 - Hemodialysis Catheter: Uncoupling & Maintenance, SHC P&P 30601.01 – Central Venous, Arterial, & Midline Catheter: Dressing Change, SHC P&P Priming NxStage 34305.105"
+  },
+  {
+    "category": "Continuous Renal Replacement Therapy",
+    "id": "CRRT_DOC_08",
+    "keywords": [
+      "catheter dwell",
+      "heparin 1000 units/ml catheter",
+      "4% citrate catheter",
+      "prepare two syringes catheter hub",
+      "0.1ml cover catheter tip"
+    ],
+    "instruction": "Discontinuation of Renal Replacement Therapy: For catheter dwell (ie;Heparin 1000 units/mL or 4% citrate) prepare two syringes with volume written on catheter hub + 0.1mL to cover catheter tip.",
+    "policy": "AACN Procedure Manual, SHC P&P 34706.01 – Renal Replacement Therapies, SHC P&P 34708.01 - Hemodialysis Catheter: Uncoupling & Maintenance, SHC P&P 30601.01 – Central Venous, Arterial, & Midline Catheter: Dressing Change, SHC P&P Priming NxStage 34305.106"
+  },
+  {
+    "category": "Continuous Renal Replacement Therapy",
+    "id": "CRRT_DOC_09",
+    "keywords": [
+      "outside dialysis services",
+      "notify hd rn therapy discontinued",
+      "dialysis discontinued notify hd rn"
+    ],
+    "instruction": "Discontinuation of Renal Replacement Therapy: If using outside dialysis services, notify HD RN on call that therapy has been discontinued.",
+    "policy": "AACN Procedure Manual, SHC P&P 34706.01 – Renal Replacement Therapies, SHC P&P 34708.01 - Hemodialysis Catheter: Uncoupling & Maintenance, SHC P&P 30601.01 – Central Venous, Arterial, & Midline Catheter: Dressing Change, SHC P&P Priming NxStage 34305.107"
+  },
+  {
+    "category": "End of Life",
+    "id": "EOL_DOC_01",
+    "keywords": [
+      "lifesharing",
+      "glasgow coma scale < 4",
+      "gcs < 4",
+      "grim prognosis",
+      "refer to lifesharing"
+    ],
+    "instruction": "Refer patients to LifeSharing with a Glasgow Coma Scale < 4 or those with a grim prognosis.",
+    "policy": "SHC P&P 01831 – Withholding/Withdrawal of Life-Sustaining Treatment, SHC P&P 30060.99 – End-of-Life Care, AACN Procedure Manual"
+  },
+  {
+    "category": "End of Life",
+    "id": "EOL_DOC_02",
+    "keywords": [
+      "lifesharing coordinator",
+      "organ donation brain death",
+      "donation after cardiac death",
+      "lifesharing contact family",
+      "organ donation discussion"
+    ],
+    "instruction": "It is the role of the LifeSharing coordinator to contact the family and discuss the option of organ donation in the case of brain death or the option of donation after cardiac death.",
+    "policy": "SHC P&P 01831 – Withholding/Withdrawal of Life-Sustaining Treatment, SHC P&P 30060.99 – End-of-Life Care, AACN Procedure Manual"
+  },
+  {
+    "category": "End of Life",
+    "id": "EOL_DOC_11",
+    "keywords": [
+      "coroner's case",
+      "family understands coroner's case",
+      "maintaining lines tubes body removed",
+      "medical examiner body removed"
+    ],
+    "instruction": "If the patient is to be a Coroner's Case, ensure that family understands this, and how this will affect process after death - maintaining lines and tubes, body removed by medical examiner.",
+    "policy": "AACN Procedure Manual, Kirchhoff, K., Kowalkowski, J., (2010) Current Practices for Withdrawal of Life Support in Intensive Care Units, American Journal of Critical Care, Vol 19, no. 6, Nov. 2010, Nelson, P. (2010), Withdrawal of Life-Sustaining Therapies, Hospice and Palliative Nurses Association, Stacy, K. ( 2012) Withdrawal of Life-Sustaining Treatment, Critical Care Nurse, Vol 32, no. 3, 14-23."
+  },
+  {
+    "category": "End of Life",
+    "id": "EOL_DOC_14",
+    "keywords": [
+      "orders written full dnr",
+      "withdrawal life support comfort measures",
+      "analgesia anxiolytic infusions",
+      "alleviation pain distressing symptoms"
+    ],
+    "instruction": "Ensure that orders are written for FULL DNR, withdrawal of life support, and for comfort measures - analgesia, anxiolytic infusions. The alleviation of pain and distressing symptoms now drives all further interventions.",
+    "policy": "AACN Procedure Manual, Kirchhoff, K., Kowalkowski, J., (2010) Current Practices for Withdrawal of Life Support in Intensive Care Units, American Journal of Critical Care, Vol 19, no. 6, Nov. 2010, Nelson, P. (2010), Withdrawal of Life-Sustaining Therapies, Hospice and Palliative Nurses Association, Stacy, K. ( 2012) Withdrawal of Life-Sustaining Treatment, Critical Care Nurse, Vol 32, no. 3, 14-23."
+  },
+  {
+    "category": "End of Life",
+    "id": "EOL_DOC_15",
+    "keywords": [
+      "notify lifesharing eol"
+    ],
+    "instruction": "Notify LifeSharing.",
+    "policy": "AACN Procedure Manual, Kirchhoff, K., Kowalkowski, J., (2010) Current Practices for Withdrawal of Life Support in Intensive Care Units, American Journal of Critical Care, Vol 19, no. 6, Nov. 2010, Nelson, P. (2010), Withdrawal of Life-Sustaining Therapies, Hospice and Palliative Nurses Association, Stacy, K. ( 2012) Withdrawal of Life-Sustaining Treatment, Critical Care Nurse, Vol 32, no. 3, 14-23."
+  },
+  {
+    "category": "End of Life",
+    "id": "EOL_DOC_16",
+    "keywords": [
+      "neuromuscular blocking agent discontinue",
+      "allow effect wear off tof 2/4",
+      "nmb discontinue infusion goal tof 2/4"
+    ],
+    "instruction": "If patient is on a neuromuscular blocking agent, discontinue the infusion and allow effect to wear off. The goal is to have the TOF 2/4.",
+    "policy": "AACN Procedure Manual, Kirchhoff, K., Kowalkowski, J., (2010) Current Practices for Withdrawal of Life Support in Intensive Care Units, American Journal of Critical Care, Vol 19, no. 6, Nov. 2010, Nelson, P. (2010), Withdrawal of Life-Sustaining Therapies, Hospice and Palliative Nurses Association, Stacy, K. ( 2012) Withdrawal of Life-Sustaining Treatment, Critical Care Nurse, Vol 32, no. 3, 14-23."
+  },
+  {
+    "category": "End of Life",
+    "id": "EOL_DOC_20",
+    "keywords": [
+      "internal defibrillator off",
+      "defibrillator function turned off",
+      "placing magnet over device",
+      "icd turned off eol"
+    ],
+    "instruction": "If patient has an internal defibrillator, the defibrillator function may be turned off by placing a magnet over the device.",
+    "policy": "Harrington MD, Luebke, D., Lewis, W., Aulisio, M., Johnson, N. (n.d.) Implantable Cardioverter-Defibrillators at End of Life, Fast Facts and Concepts #112. Wiegand, D., Kalowes, P., (2007), Withdrawal of Cardiac Medications and Devices, AACN Advanced Critical Care, Vol 18 no. 4, pgs 415-425."
+  },
+  {
+    "category": "End of Life",
+    "id": "EOL_DOC_22",
+    "keywords": [
+      "turn off monitor alarms",
+      "monitor display off room central station",
+      "turn off alarms display eol"
+    ],
+    "instruction": "Turn off monitor alarms, and turn off monitor display in the room, keeping it on at the central station.",
+    "policy": "AACN Procedure Manual, Kirchhoff, K., Kowalkowski, J., (2010) Current Practices for Withdrawal of Life Support in Intensive Care Units, American Journal of Critical Care, Vol 19, no. 6, Nov. 2010, Nelson, P. (2010), Withdrawal of Life-Sustaining Therapies, Hospice and Palliative Nurses Association, Stacy, K. ( 2012) Withdrawal of Life-Sustaining Treatment, Critical Care Nurse, Vol 32, no. 3, 14-23."
+  },
+  {
+    "category": "End of Life",
+    "id": "EOL_DOC_23",
+    "keywords": [
+      "medications not withdrawal care order",
+      "discontinued vasoactive drips",
+      "turned off rapidly titrated down",
+      "dying process not prolonged"
+    ],
+    "instruction": "Medications that are not in the withdrawal of care order set will be discontinued. Vasoactive drips are considered life support and should be turned off or rapidly titrated down so that the dying process is NOT prolonged.",
+    "policy": "Harrington MD, Luebke, D., Lewis, W., Aulisio, M., Johnson, N. (n.d.) Implantable Cardioverter-Defibrillators at End of Life, Fast Facts and Concepts #112. Wiegand, D., Kalowes, P., (2007), Withdrawal of Cardiac Medications and Devices, AACN Advanced Critical Care, Vol 18 no. 4, pgs 415-425."
+  },
+  {
+    "category": "End of Life",
+    "id": "EOL_DOC_24",
+    "keywords": [
+      "withdrawal mechanical ventilation",
+      "extubation immediate withdrawal",
+      "extubate to room air oxygen",
+      "position head facilitate airflow",
+      "minimize noisy respirations",
+      "remove ventilator from room"
+    ],
+    "instruction": "Withdrawal of mechanical ventilation: Extubation may occur immediately (Immediate withdrawal), and patient may be extubated to room air or to a source of oxygen. Position the patient's head to facilitate airflow and minimize noisy respirations or other distressing sounds and remove the ventilator from the room.",
+    "policy": "Yeow, M., Mehta, R., White, D., Szmuilowicz, E. Using Non-Invasive Ventilation at End of life, EPERC Fast Facts #230, n.d., Medical College of Wisconsin"
+  },
+  {
+    "category": "End of Life",
+    "id": "EOL_DOC_25",
+    "keywords": [
+      "mechanical ventilation weaned gradually",
+      "terminal weaning",
+      "rapid reduction vent settings",
+      "fio2 peep rate volume pressure support",
+      "watching respiratory distress",
+      "return previous ventilator settings",
+      "titrating medications comfort",
+      "resume ventilator weaning"
+    ],
+    "instruction": "Withdrawal of mechanical ventilation: Mechanical ventilation may also be weaned gradually (terminal weaning) by: Rapid reduction of vent settings, step-wise for FiO2, PEEP, rate, volume and pressure support every few minutes while watching for respiratory distress. If distress occurs, return to previous ventilator settings while titrating medications for comfort, then resume ventilator weaning.",
+    "policy": "Yeow, M., Mehta, R., White, D., Szmuilowicz, E. Using Non-Invasive Ventilation at End of life, EPERC Fast Facts #230, n.d., Medical College of Wisconsin"
+  },
+  {
+    "category": "End of Life",
+    "id": "EOL_DOC_26",
+    "keywords": [
+      "ventilator support weaned off",
+      "extubate to room air oxygen",
+      "remove ventilator from room",
+      "once weaned off extubate"
+    ],
+    "instruction": "Withdrawal of mechanical ventilation: Once ventilator support weaned off, extubate patient to room air or oxygen and remove the ventilator from the room.",
+    "policy": "Yeow, M., Mehta, R., White, D., Szmuilowicz, E. Using Non-Invasive Ventilation at End of life, EPERC Fast Facts #230, n.d., Medical College of Wisconsin"
+  },
+  {
+    "category": "End of Life",
+    "id": "EOL_DOC_27",
+    "keywords": [
+      "swollen protuberant tongue",
+      "collaborate physician family leaving ett",
+      "removing ventilator placing t piece blow-by",
+      "ett in place swollen tongue"
+    ],
+    "instruction": "Withdrawal of mechanical ventilation: If patient has a swollen, protuberant tongue, collaborate with physician and family regarding leaving the ETT in place, but removing the ventilator and placing patient on T piece or blow-by.",
+    "policy": "Yeow, M., Mehta, R., White, D., Szmuilowicz, E. Using Non-Invasive Ventilation at End of life, EPERC Fast Facts #230, n.d., Medical College of Wisconsin"
+  },
+  {
+    "category": "End of Life",
+    "id": "EOL_DOC_28",
+    "keywords": [
+      "tracheostomy weaning discontinuing",
+      "t piece trach mask humidified air oxygen",
+      "weaning trach discontinuing ventilator"
+    ],
+    "instruction": "Withdrawal of mechanical ventilation: If the patient has a tracheostomy, follow the steps above for weaning and discontinuing the ventilator and place the patient on a T piece or trach mask with humidified air or oxygen.",
+    "policy": "Yeow, M., Mehta, R., White, D., Szmuilowicz, E. Using Non-Invasive Ventilation at End of life, EPERC Fast Facts #230, n.d., Medical College of Wisconsin"
+  },
+  {
+    "category": "End of Life",
+    "id": "EOL_DOC_32",
+    "keywords": [
+      "bipap comfort measure end of life",
+      "dyspnea wish decrease opioid",
+      "mask contribute discomfort claustrophobia",
+      "skin breakdown conversation difficult",
+      "patient comfort goal removal maintenance non-invasive ventilation"
+    ],
+    "instruction": "BiPap may be used as a comfort measure at end of life for patients with dyspnea who wish to decrease opioid use to treat the dyspnea. However, the mask may contribute to discomfort by causing claustrophobia, skin breakdown, and it makes conversation difficult. Again, allow the patient's comfort goal be your guide in the removal or maintenance of non-invasive ventilation.",
+    "policy": "Yeow, M., Mehta, R., White, D., Szmuilowicz, E. Using Non-Invasive Ventilation at End of life, EPERC Fast Facts #230, n.d., Medical College of Wisconsin"
+  },
+  {
+    "category": "End of Life",
+    "id": "EOL_DOC_33",
+    "keywords": [
+      "pacemaker aicd eol",
+      "pacemakers not turned off end of life",
+      "decision turn off pacemaker physician program",
+      "magnet company representative stop icd",
+      "deactivation icd therapy include",
+      "continued use icd inconsistent patient goals",
+      "withdrawal anti-arrhythmic medications turn off icd",
+      "imminent death",
+      "dnr order icd inconsistent do-not-resuscitate"
+    ],
+    "instruction": "Pacemaker/AICD: Pacemakers are not usually turned off at end of life because they will not prolong life in a patient dying of advanced disease. If a decision is made to turn off a pacemaker, this must be done by a physician able to program the device. A magnet or a company representative can stop the ICD function of a Pacer/AICD with a physician order. Indications for deactivation of ICD therapy include: Continued use of an ICD is inconsistent with patient goals, Withdrawal of anti-arrhythmic medications: if anti-arrhythmic medications are withdrawn consider turning off the ICD to avoid frequent shocks, Imminent death, The patient has a DNR order. The functioning of an ICD is generally inconsistent with a 'Do-Not-Resuscitate' order since ICDs attempt to resuscitate the patient by shocking their hearts back into a life-sustaining rhythm.",
+    "policy": "Harrington MD, Luebke, D., Lewis, W., Aulisio, M., Johnson, N. (n.d.) Implantable Cardioverter-Defibrillators at End of Life, Fast Facts and Concepts #112. Wiegand, D., Kalowes, P., (2007), Withdrawal of Cardiac Medications and Devices, AACN Advanced Critical Care, Vol 18 no. 4, pgs 415-425."
+  },
+  {
+    "category": "End of Life",
+    "id": "EOL_DOC_34",
+    "keywords": [
+      "lvads smh only",
+      "notify mcs team impending eol",
+      "identify autopsy needed",
+      "collaborate provider mcs team family stopping pump"
+    ],
+    "instruction": "For patients with LVADs -- SMH Only: Notify MCS Team of impending EOL Care (if available), Identify if autopsy will be needed, Collaborate with provider, MCS team, and family on stopping of pump.",
+    "policy": "Heartmate LVAD Resource Center Educational Materials, Withdrawal of Support Instructions to Stop Pump with Pocket Controller"
+  },
+  {
+    "category": "End of Life",
+    "id": "EOL_DOC_35",
+    "keywords": [
+      "lvad family wait cessation respirations",
+      "pump alarm low flow silence alarms",
+      "inform family pump will alarm"
+    ],
+    "instruction": "For patients with LVADs -- SMH Only: If family wants to wait until cessation of respirations, inform them that pump will alarm for low flow, and silence alarms as needed.",
+    "policy": "Heartmate LVAD Resource Center Educational Materials, Withdrawal of Support Instructions to Stop Pump with Pocket Controller"
+  },
+  {
+    "category": "End of Life",
+    "id": "EOL_DOC_36",
+    "keywords": [
+      "lvad family stop pump",
+      "patient comfortable analgesic anxiolytic infusions",
+      "remove controller cell both power lines",
+      "open driveline lock disconnect driveline controller"
+    ],
+    "instruction": "For patients with LVADs -- SMH Only: If family wants to stop pump, ensure patient is comfortable on analgesic and anxiolytic infusions, and remove controller cell and both power lines, open driveline lock and disconnect driveline from controller.",
+    "policy": "Heartmate LVAD Resource Center Educational Materials, Withdrawal of Support Instructions to Stop Pump with Pocket Controller"
+  },
+  {
+    "category": "End of Life",
+    "id": "EOL_DOC_37",
+    "keywords": [
+      "lvad stopped patient startle huge breath",
+      "raise arms physiological response",
+      "does not indicate distress prepare family"
+    ],
+    "instruction": "For patients with LVADs -- SMH Only: When the LVAD is stopped it is not uncommon to see the patient startle and take a huge breath or raise their arms. This is a physiological response and does not indicate distress and prepare family for this.",
+    "policy": "Heartmate LVAD Resource Center Educational Materials, Withdrawal of Support Instructions to Stop Pump with Pocket Controller"
+  },
+  {
+    "category": "End of Life",
+    "id": "EOL_DOC_38",
+    "keywords": [
+      "lvad return equipment mcs lab",
+      "return all equipment mcs lab"
+    ],
+    "instruction": "For patients with LVADs -- SMH Only: Return all equipment of MCS Lab.",
+    "policy": "Heartmate LVAD Resource Center Educational Materials, Withdrawal of Support Instructions to Stop Pump with Pocket Controller"
+  },
+  {
+    "category": "End of Life",
+    "id": "EOL_DOC_39",
+    "keywords": [
+      "lvad withdrawal support instructions",
+      "stop pump pocket controller",
+      "see withdrawal support instructions"
+    ],
+    "instruction": "For patients with LVADs -- SMH Only: See Withdrawal of Support Instructions to Stop Pump with Pocket Controller.",
+    "policy": "Heartmate LVAD Resource Center Educational Materials, Withdrawal of Support Instructions to Stop Pump with Pocket Controller"
+  }
+]
