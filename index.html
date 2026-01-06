@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <title>Metis WEB</title>
+    <link rel="stylesheet" href="./style.css">
+
+  </head>
+    
+  <body>
+  <header>
+  <center>
+  <div class="container">
+    <h1>Metis WEB</h1>
+    <h5>Built, designed, and engineered by Mark Sescon.</h5>
+  </div>
+  </center>
+</header>
+
+<div class="container">
+  <div class="search-box">
+    <div class="search-controls">
+      <div class="search-input-wrapper">
+        <span class="search-icon">🔍</span>
+        <input 
+          type="text" 
+          id="searchInput" 
+          placeholder="Search clinical guidelines (e.g., 'vitals' or 'admission')"
+          autocomplete="off"
+          autocapitalize="off"
+          autocorrect="off"
+        >
+        <button class="clear-btn" id="clearBtn" style="display: none;">✕</button>
+      </div>
+      <button class="reset-btn" id="resetBtn">Reset</button>
+    </div>
+  </div>
+
+  <div id="resultsContainer">
+    <div class="loading">Loading clinical guidelines...</div>
+  </div>
+</div>
+
+<div class="modal-overlay" id="modalOverlay">
+  <div class="modal-card" id="modalCard">
+    <button class="close-btn" id="closeBtn">✕</button>
+    <div class="modal-handle"></div>
+    <div class="modal-content" id="modalContent"></div>
+  </div>
+</div>
+    <script  src="./script.js"></script>
+
+  </body>
+  
+</html>
